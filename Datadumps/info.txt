@@ -1,0 +1,10 @@
+NMBS
+------
+Data voor 09/01/2015 (hele dag)
+39075 departures = 468900 triples
+
+
+De Lijn
+---------
+Data voor 09/01/2015 (hele dag)
+1064896 departures = 12778752 triples

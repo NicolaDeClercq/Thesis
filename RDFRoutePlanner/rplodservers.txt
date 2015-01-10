@@ -1,0 +1,3 @@
+"url","name"
+"http://rplod.noip.me:50001","NMBS"
+"http://rplod.noip.me:50002","De Lijn"

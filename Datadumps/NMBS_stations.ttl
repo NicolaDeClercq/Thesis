@@ -1,0 +1,2997 @@
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+
+<http://irail.be/stations/NMBS/008822251>
+        rdfs:label   "Weerde [NMBS/SNCB]" ;
+        geo:lat      "50.977449" ;
+        geo:long     "4.470937" .
+
+<http://irail.be/stations/NMBS/008841202>
+        rdfs:label   "Ans [NMBS/SNCB]" ;
+        geo:lat      "50.661208" ;
+        geo:long     "5.509704" .
+
+<http://irail.be/stations/NMBS/008821907>
+        rdfs:label   "Turnhout [NMBS/SNCB]" ;
+        geo:lat      "51.322032" ;
+        geo:long     "4.937415" .
+
+<http://irail.be/stations/NMBS/008872413>
+        rdfs:label   "Fleurus [NMBS/SNCB]" ;
+        geo:lat      "50.481927" ;
+        geo:long     "4.543741" .
+
+<http://irail.be/stations/NMBS/008821717>
+        rdfs:label   "Herentals [NMBS/SNCB]" ;
+        geo:lat      "51.181513" ;
+        geo:long     "4.829535" .
+
+<http://irail.be/stations/NMBS/008841608>
+        rdfs:label   "Herstal [NMBS/SNCB]" ;
+        geo:lat      "50.660911" ;
+        geo:long     "5.622761" .
+
+<http://irail.be/stations/NMBS/008833209>
+        rdfs:label   "Aarschot [NMBS/SNCB]" ;
+        geo:lat      "50.984406" ;
+        geo:long     "4.824043" .
+
+<http://irail.be/stations/NMBS/008886066>
+        rdfs:label   "Brugelette [NMBS/SNCB]" ;
+        geo:lat      "50.594229" ;
+        geo:long     "3.852551" .
+
+<http://irail.be/stations/NMBS/008872553>
+        rdfs:label   "Tilly [NMBS/SNCB]" ;
+        geo:lat      "50.558084" ;
+        geo:long     "4.552676" .
+
+<http://irail.be/stations/NMBS/008814373>
+        rdfs:label   "Vorst-Zuid [NMBS/SNCB]" ;
+        geo:lat      "50.809215" ;
+        geo:long     "4.309167" .
+
+<http://irail.be/stations/NMBS/008833308>
+        rdfs:label   "Tienen [NMBS/SNCB]" ;
+        geo:lat      "50.808020" ;
+        geo:long     "4.925810" .
+
+<http://irail.be/stations/NMBS/008885704>
+        rdfs:label   "Moeskroen [NMBS/SNCB]" ;
+        geo:lat      "50.741005" ;
+        geo:long     "3.228448" .
+
+<http://irail.be/stations/NMBS/008821022>
+        rdfs:label   "Antwerpen-Oost [NMBS/SNCB]" ;
+        geo:lat      "51.207357" ;
+        geo:long     "4.436392" .
+
+<http://irail.be/stations/NMBS/008814175>
+        rdfs:label   "De Hoek [NMBS/SNCB]" ;
+        geo:lat      "50.738812" ;
+        geo:long     "4.370717" .
+
+<http://irail.be/stations/NMBS/008832235>
+        rdfs:label   "Beringen [NMBS/SNCB]" ;
+        geo:lat      "51.050603" ;
+        geo:long     "5.235892" .
+
+<http://irail.be/stations/NMBS/008866118>
+        rdfs:label   "Viville [NMBS/SNCB]" ;
+        geo:lat      "49.688243" ;
+        geo:long     "5.786527" .
+
+<http://irail.be/stations/NMBS/008821709>
+        rdfs:label   "Wolfstee [NMBS/SNCB]" ;
+        geo:lat      "51.168361" ;
+        geo:long     "4.786144" .
+
+<http://irail.be/stations/NMBS/008821121>
+        rdfs:label   "Antwerpen-Berchem [NMBS/SNCB]" ;
+        geo:lat      "51.199230" ;
+        geo:long     "4.432221" .
+
+<http://irail.be/stations/NMBS/008895505>
+        rdfs:label   "Geraardsbergen [NMBS/SNCB]" ;
+        geo:lat      "50.771137" ;
+        geo:long     "3.872328" .
+
+<http://irail.be/stations/NMBS/008872611>
+        rdfs:label   "Faux [NMBS/SNCB]" ;
+        geo:lat      "50.621826" ;
+        geo:long     "4.549260" .
+
+<http://irail.be/stations/NMBS/008843208>
+        rdfs:label   "Flemalle-Haute [NMBS/SNCB]" ;
+        geo:lat      "50.595308" ;
+        geo:long     "5.457656" .
+
+<http://irail.be/stations/NMBS/008832565>
+        rdfs:label   "Lommel [NMBS/SNCB]" ;
+        geo:lat      "51.211564" ;
+        geo:long     "5.312031" .
+
+<http://irail.be/stations/NMBS/008728105>
+        rdfs:label   "Croix L Allumette (f)" ;
+        geo:lat      "50.675708" ;
+        geo:long     "3.133810" .
+
+<http://irail.be/stations/NMBS/008814241>
+        rdfs:label   "Lillois [NMBS/SNCB]" ;
+        geo:lat      "50.645423" ;
+        geo:long     "4.365368" .
+
+<http://irail.be/stations/NMBS/008884855>
+        rdfs:label   "Peruwelz [NMBS/SNCB]" ;
+        geo:lat      "50.513704" ;
+        geo:long     "3.592772" .
+
+<http://irail.be/stations/NMBS/008865649>
+        rdfs:label   "Gedinne [NMBS/SNCB]" ;
+        geo:lat      "49.984123" ;
+        geo:long     "4.978073" .
+
+<http://irail.be/stations/NMBS/008822160>
+        rdfs:label   "Baasrode-Zuid [NMBS/SNCB]" ;
+        geo:lat      "51.019437" ;
+        geo:long     "4.153492" .
+
+<http://irail.be/stations/NMBS/008832664>
+        rdfs:label   "Hamont [NMBS/SNCB]" ;
+        geo:lat      "51.246424" ;
+        geo:long     "5.543279" .
+
+<http://irail.be/stations/NMBS/008843307>
+        rdfs:label   "Hoei [NMBS/SNCB]" ;
+        geo:lat      "50.527242" ;
+        geo:long     "5.234211" .
+
+<http://irail.be/stations/NMBS/008821030>
+        rdfs:label   "Antwerpen-Dam [NMBS/SNCB]" ;
+        geo:lat      "51.231987" ;
+        geo:long     "4.426234" .
+
+<http://irail.be/stations/NMBS/008886058>
+        rdfs:label   "Mevergnies-Attre [NMBS/SNCB]" ;
+        geo:lat      "50.600108" ;
+        geo:long     "3.833917" .
+
+<http://irail.be/stations/NMBS/008896396>
+        rdfs:label   "Wervik [NMBS/SNCB]" ;
+        geo:lat      "50.781861" ;
+        geo:long     "3.046983" .
+
+<http://irail.be/stations/NMBS/008832045>
+        rdfs:label   "Balen [NMBS/SNCB]" ;
+        geo:lat      "51.169099" ;
+        geo:long     "5.164986" .
+
+<http://irail.be/stations/NMBS/008895612>
+        rdfs:label   "Viane-Moerbeke [NMBS/SNCB]" ;
+        geo:lat      "50.751981" ;
+        geo:long     "3.917337" .
+
+<http://irail.be/stations/NMBS/008832243>
+        rdfs:label   "Heusden [NMBS/SNCB]" ;
+        geo:lat      "51.038207" ;
+        geo:long     "5.281782" .
+
+<http://irail.be/stations/NMBS/008822269>
+        rdfs:label   "Eppegem [NMBS/SNCB]" ;
+        geo:lat      "50.958400" ;
+        geo:long     "4.457490" .
+
+<http://irail.be/stations/NMBS/008893401>
+        rdfs:label   "Dendermonde [NMBS/SNCB]" ;
+        geo:lat      "51.022781" ;
+        geo:long     "4.101427" .
+
+<http://irail.be/stations/NMBS/008892635>
+        rdfs:label   "Zingem [NMBS/SNCB]" ;
+        geo:lat      "50.908025" ;
+        geo:long     "3.646384" .
+
+<http://irail.be/stations/NMBS/008843331>
+        rdfs:label   "Amay [NMBS/SNCB]" ;
+        geo:lat      "50.546011" ;
+        geo:long     "5.320490" .
+
+<http://irail.be/stations/NMBS/008841327>
+        rdfs:label   "Voroux [NMBS/SNCB]" ;
+        geo:lat      "50.661810" ;
+        geo:long     "5.429556" .
+
+<http://irail.be/stations/NMBS/008842853>
+        rdfs:label   "Sy [NMBS/SNCB]" ;
+        geo:lat      "50.403254" ;
+        geo:long     "5.523565" .
+
+<http://irail.be/stations/NMBS/008824240>
+        rdfs:label   "Niel [NMBS/SNCB]" ;
+        geo:lat      "51.111595" ;
+        geo:long     "4.338589" .
+
+<http://irail.be/stations/NMBS/008842754>
+        rdfs:label   "Aywaille [NMBS/SNCB]" ;
+        geo:lat      "50.472938" ;
+        geo:long     "5.672499" .
+
+<http://irail.be/stations/NMBS/008814159>
+        rdfs:label   "Holleken [NMBS/SNCB]" ;
+        geo:lat      "50.767631" ;
+        geo:long     "4.353952" .
+
+<http://irail.be/stations/NMBS/008895760>
+        rdfs:label   "Ninove [NMBS/SNCB]" ;
+        geo:lat      "50.839509" ;
+        geo:long     "4.026133" .
+
+<http://irail.be/stations/NMBS/008892734>
+        rdfs:label   "Anzegem [NMBS/SNCB]" ;
+        geo:lat      "50.826385" ;
+        geo:long     "3.495014" .
+
+<http://irail.be/stations/NMBS/008896388>
+        rdfs:label   "Bissegem [NMBS/SNCB]" ;
+        geo:lat      "50.825845" ;
+        geo:long     "3.224205" .
+
+<http://irail.be/stations/NMBS/008814357>
+        rdfs:label   "Lot [NMBS/SNCB]" ;
+        geo:lat      "50.766364" ;
+        geo:long     "4.273696" .
+
+<http://irail.be/stations/NMBS/008822137>
+        rdfs:label   "Malderen [NMBS/SNCB]" ;
+        geo:lat      "51.014484" ;
+        geo:long     "4.229110" .
+
+<http://irail.be/stations/NMBS/008895620>
+        rdfs:label   "Galmaarden [NMBS/SNCB]" ;
+        geo:lat      "50.743918" ;
+        geo:long     "3.965726" .
+
+<http://irail.be/stations/NMBS/008821006>
+        rdfs:label   "Antwerpen-Centraal [NMBS/SNCB]" ;
+        geo:lat      "51.217200" ;
+        geo:long     "4.421101" .
+
+<http://irail.be/stations/NMBS/008841731>
+        rdfs:label   "Glaaien [NMBS/SNCB]" ;
+        geo:lat      "50.750426" ;
+        geo:long     "5.535431" .
+
+<http://irail.be/stations/NMBS/008822277>
+        rdfs:label   "Hofstade [NMBS/SNCB]" ;
+        geo:lat      "50.988658" ;
+        geo:long     "4.498336" .
+
+<http://irail.be/stations/NMBS/008814258>
+        rdfs:label   "Eigenbrakel [NMBS/SNCB]" ;
+        geo:lat      "50.684778" ;
+        geo:long     "4.375526" .
+
+<http://irail.be/stations/NMBS/008892627>
+        rdfs:label   "Eine [NMBS/SNCB]" ;
+        geo:lat      "50.870432" ;
+        geo:long     "3.623776" .
+
+<http://irail.be/stations/NMBS/008821147>
+        rdfs:label   "Mortsel [NMBS/SNCB]" ;
+        geo:lat      "51.182960" ;
+        geo:long     "4.448437" .
+
+<http://irail.be/stations/NMBS/008895778>
+        rdfs:label   "Okegem [NMBS/SNCB]" ;
+        geo:lat      "50.857712" ;
+        geo:long     "4.054557" .
+
+<http://irail.be/stations/NMBS/008892643>
+        rdfs:label   "Gavere-Asper [NMBS/SNCB]" ;
+        geo:lat      "50.930021" ;
+        geo:long     "3.639732" .
+
+<http://irail.be/stations/NMBS/008892031>
+        rdfs:label   "Drongen [NMBS/SNCB]" ;
+        geo:lat      "51.047295" ;
+        geo:long     "3.655202" .
+
+<http://irail.be/stations/NMBS/008822533>
+        rdfs:label   "Hambos [NMBS/SNCB]" ;
+        geo:lat      "50.944251" ;
+        geo:long     "4.663010" .
+
+<http://irail.be/stations/NMBS/008814266>
+        rdfs:label   "Waterloo [NMBS/SNCB]" ;
+        geo:lat      "50.715422" ;
+        geo:long     "4.383481" .
+
+<http://irail.be/stations/NMBS/008843323>
+        rdfs:label   "Ampsin [NMBS/SNCB]" ;
+        geo:lat      "50.539215" ;
+        geo:long     "5.289729" .
+
+<http://irail.be/stations/NMBS/008824232>
+        rdfs:label   "Schelle [NMBS/SNCB]" ;
+        geo:lat      "51.125510" ;
+        geo:long     "4.340261" .
+
+<http://irail.be/stations/NMBS/008814365>
+        rdfs:label   "Ruisbroek [NMBS/SNCB]" ;
+        geo:lat      "50.791830" ;
+        geo:long     "4.295333" .
+
+<http://irail.be/stations/NMBS/008886074>
+        rdfs:label   "Cambron-Casteau [NMBS/SNCB]" ;
+        geo:lat      "50.586759" ;
+        geo:long     "3.874809" .
+
+<http://irail.be/stations/NMBS/008831401>
+        rdfs:label   "Diest [NMBS/SNCB]" ;
+        geo:lat      "50.993341" ;
+        geo:long     "5.050031" .
+
+<http://irail.be/stations/NMBS/008895638>
+        rdfs:label   "Tollembeek [NMBS/SNCB]" ;
+        geo:lat      "50.735522" ;
+        geo:long     "3.992828" .
+
+<http://irail.be/stations/NMBS/008896370>
+        rdfs:label   "Wevelgem [NMBS/SNCB]" ;
+        geo:lat      "50.811526" ;
+        geo:long     "3.183520" .
+
+<http://irail.be/stations/NMBS/008814167>
+        rdfs:label   "Sint-Genesius-Rode [NMBS/SNCB]" ;
+        geo:lat      "50.747810" ;
+        geo:long     "4.361997" .
+
+<http://irail.be/stations/NMBS/008822145>
+        rdfs:label   "Buggenhout [NMBS/SNCB]" ;
+        geo:lat      "51.016291" ;
+        geo:long     "4.201666" .
+
+<http://irail.be/stations/NMBS/008844271>
+        rdfs:label   "Trooz [NMBS/SNCB]" ;
+        geo:lat      "50.573213" ;
+        geo:long     "5.688346" .
+
+<http://irail.be/stations/NMBS/008885068>
+        rdfs:label   "Froyennes [NMBS/SNCB]" ;
+        geo:lat      "50.629890" ;
+        geo:long     "3.354837" .
+
+<http://irail.be/stations/NMBS/008832227>
+        rdfs:label   "Beverlo [NMBS/SNCB]" ;
+        geo:lat      "51.087719" ;
+        geo:long     "5.234373" .
+
+<http://irail.be/stations/NMBS/008832409>
+        rdfs:label   "Mol [NMBS/SNCB]" ;
+        geo:lat      "51.191050" ;
+        geo:long     "5.116336" .
+
+<http://irail.be/stations/NMBS/008821154>
+        rdfs:label   "Mortsel-Deurnesteenweg [NMBS/SNCB]" ;
+        geo:lat      "51.183023" ;
+        geo:long     "4.446514" .
+
+<http://irail.be/stations/NMBS/008892338>
+        rdfs:label   "De Panne [NMBS/SNCB]" ;
+        geo:lat      "51.077400" ;
+        geo:long     "2.601963" .
+
+<http://irail.be/stations/NMBS/008210014>
+        rdfs:label   "Mamer-Lycee (l)" ;
+        geo:lat      "49.627502" ;
+        geo:long     "6.023330" .
+
+<http://irail.be/stations/NMBS/008891660>
+        rdfs:label   "Knokke [NMBS/SNCB]" ;
+        geo:lat      "51.339894" ;
+        geo:long     "3.285188" .
+
+<http://irail.be/stations/NMBS/008895844>
+        rdfs:label   "Iddergem [NMBS/SNCB]" ;
+        geo:lat      "50.876886" ;
+        geo:long     "4.068490" .
+
+<http://irail.be/stations/NMBS/008833159>
+        rdfs:label   "Sint-Joris-Weert [NMBS/SNCB]" ;
+        geo:lat      "50.800631" ;
+        geo:long     "4.651728" .
+
+<http://irail.be/stations/NMBS/008873387>
+        rdfs:label   "Ham-Sur-Heure [NMBS/SNCB]" ;
+        geo:lat      "50.319555" ;
+        geo:long     "4.404696" .
+
+<http://irail.be/stations/NMBS/008866530>
+        rdfs:label   "Halanzy [NMBS/SNCB]" ;
+        geo:lat      "49.556200" ;
+        geo:long     "5.741347" .
+
+<http://irail.be/stations/NMBS/008832615>
+        rdfs:label   "Neerpelt [NMBS/SNCB]" ;
+        geo:lat      "51.222369" ;
+        geo:long     "5.437170" .
+
+<http://irail.be/stations/NMBS/008892650>
+        rdfs:label   "Eke-Nazareth [NMBS/SNCB]" ;
+        geo:lat      "50.960774" ;
+        geo:long     "3.627839" .
+
+<http://irail.be/stations/NMBS/008842838>
+        rdfs:label   "Comblain-La-Tour [NMBS/SNCB]" ;
+        geo:lat      "50.456865" ;
+        geo:long     "5.566956" .
+
+<http://irail.be/stations/NMBS/008895745>
+        rdfs:label   "Appelterre [NMBS/SNCB]" ;
+        geo:lat      "50.813063" ;
+        geo:long     "3.972108" .
+
+<http://irail.be/stations/NMBS/008841442>
+        rdfs:label   "Remicourt [NMBS/SNCB]" ;
+        geo:lat      "50.678611" ;
+        geo:long     "5.321407" .
+
+<http://irail.be/stations/NMBS/008871365>
+        rdfs:label   "Pont-A-Celles [NMBS/SNCB]" ;
+        geo:lat      "50.513812" ;
+        geo:long     "4.355291" .
+
+<http://irail.be/stations/NMBS/008833449>
+        rdfs:label   "Ezemaal [NMBS/SNCB]" ;
+        geo:lat      "50.772126" ;
+        geo:long     "4.994217" .
+
+<http://irail.be/stations/NMBS/008833050>
+        rdfs:label   "Vertrijk [NMBS/SNCB]" ;
+        geo:lat      "50.836282" ;
+        geo:long     "4.835522" .
+
+<http://irail.be/stations/NMBS/008814134>
+        rdfs:label   "Ukkel-Kalevoet [NMBS/SNCB]" ;
+        geo:lat      "50.791749" ;
+        geo:long     "4.332207" .
+
+<http://irail.be/stations/NMBS/008821816>
+        rdfs:label   "Berlaar [NMBS/SNCB]" ;
+        geo:lat      "51.113662" ;
+        geo:long     "4.638811" .
+
+<http://irail.be/stations/NMBS/008824224>
+        rdfs:label   "Hemiksem [NMBS/SNCB]" ;
+        geo:lat      "51.136243" ;
+        geo:long     "4.338293" .
+
+<http://irail.be/stations/NMBS/008895646>
+        rdfs:label   "Herne [NMBS/SNCB]" ;
+        geo:lat      "50.723701" ;
+        geo:long     "4.014573" .
+
+<http://irail.be/stations/NMBS/008842630>
+        rdfs:label   "Tilff [NMBS/SNCB]" ;
+        geo:lat      "50.570624" ;
+        geo:long     "5.583937" .
+
+<http://irail.be/stations/NMBS/008866258>
+        rdfs:label   "Neufchateau [NMBS/SNCB]" ;
+        geo:lat      "49.854318" ;
+        geo:long     "5.452559" .
+
+<http://irail.be/stations/NMBS/008813003>
+        rdfs:label   "Brussel-Centraal [NMBS/SNCB]" ;
+        geo:lat      "50.845658" ;
+        geo:long     "4.356801" .
+
+<http://irail.be/stations/NMBS/008885753>
+        rdfs:label   "Herseaux [NMBS/SNCB]" ;
+        geo:lat      "50.713894" ;
+        geo:long     "3.245959" .
+
+<http://irail.be/stations/NMBS/008842705>
+        rdfs:label   "Rivage [NMBS/SNCB]" ;
+        geo:lat      "50.483285" ;
+        geo:long     "5.587631" .
+
+<http://irail.be/stations/NMBS/008832003>
+        rdfs:label   "Leopoldsburg [NMBS/SNCB]" ;
+        geo:lat      "51.117312" ;
+        geo:long     "5.257287" .
+
+<http://irail.be/stations/NMBS/008871175>
+        rdfs:label   "Jamioulx [NMBS/SNCB]" ;
+        geo:lat      "50.352896" ;
+        geo:long     "4.411294" .
+
+<http://irail.be/stations/NMBS/008833258>
+        rdfs:label   "Langdorp [NMBS/SNCB]" ;
+        geo:lat      "51.002466" ;
+        geo:long     "4.863541" .
+
+<http://irail.be/stations/NMBS/008872520>
+        rdfs:label   "Ligny [NMBS/SNCB]" ;
+        geo:lat      "50.511726" ;
+        geo:long     "4.566133" .
+
+<http://irail.be/stations/NMBS/008831765>
+        rdfs:label   "Genk [NMBS/SNCB]" ;
+        geo:lat      "50.967057" ;
+        geo:long     "5.497685" .
+
+<http://irail.be/stations/NMBS/008895851>
+        rdfs:label   "Welle [NMBS/SNCB]" ;
+        geo:lat      "50.903279" ;
+        geo:long     "4.050620" .
+
+<http://irail.be/stations/NMBS/008895752>
+        rdfs:label   "Eichem [NMBS/SNCB]" ;
+        geo:lat      "50.823994" ;
+        geo:long     "3.993745" .
+
+<http://irail.be/stations/NMBS/008873007>
+        rdfs:label   "Walcourt [NMBS/SNCB]" ;
+        geo:lat      "50.259219" ;
+        geo:long     "4.435879" .
+
+<http://irail.be/stations/NMBS/008842846>
+        rdfs:label   "Hamoir [NMBS/SNCB]" ;
+        geo:lat      "50.428181" ;
+        geo:long     "5.533561" .
+
+<http://irail.be/stations/NMBS/008844057>
+        rdfs:label   "Verviers-Paleis [NMBS/SNCB]" ;
+        geo:lat      "50.590921" ;
+        geo:long     "5.865335" .
+
+<http://irail.be/stations/NMBS/008885001>
+        rdfs:label   "Doornik [NMBS/SNCB]" ;
+        geo:lat      "50.613134" ;
+        geo:long     "3.396942" .
+
+<http://irail.be/stations/NMBS/008842648>
+        rdfs:label   "Mery [NMBS/SNCB]" ;
+        geo:lat      "50.547620" ;
+        geo:long     "5.587236" .
+
+<http://irail.be/stations/NMBS/008814001>
+        rdfs:label   "Brussel-Zuid [NMBS/SNCB]" ;
+        geo:lat      "50.835707" ;
+        geo:long     "4.336531" .
+
+<http://irail.be/stations/NMBS/008892254>
+        rdfs:label   "Tielt [NMBS/SNCB]" ;
+        geo:lat      "50.990842" ;
+        geo:long     "3.330341" .
+
+<http://irail.be/stations/NMBS/008814142>
+        rdfs:label   "Linkebeek [NMBS/SNCB]" ;
+        geo:lat      "50.773681" ;
+        geo:long     "4.339434" .
+
+<http://irail.be/stations/NMBS/008812062>
+        rdfs:label   "Zellik [NMBS/SNCB]" ;
+        geo:lat      "50.890028" ;
+        geo:long     "4.274541" .
+
+<http://irail.be/stations/NMBS/008871373>
+        rdfs:label   "Gouy-Lez-Pieton [NMBS/SNCB]" ;
+        geo:lat      "50.497065" ;
+        geo:long     "4.325123" .
+
+<http://irail.be/stations/NMBS/008841459>
+        rdfs:label   "Momalle [NMBS/SNCB]" ;
+        geo:lat      "50.669910" ;
+        geo:long     "5.367602" .
+
+<http://irail.be/stations/NMBS/008893534>
+        rdfs:label   "Wichelen [NMBS/SNCB]" ;
+        geo:lat      "51.001962" ;
+        geo:long     "3.969195" .
+
+<http://irail.be/stations/NMBS/008892007>
+        rdfs:label   "Gent-Sint-Pieters [NMBS/SNCB]" ;
+        geo:lat      "51.035896" ;
+        geo:long     "3.710675" .
+
+<http://irail.be/stations/NMBS/008891645>
+        rdfs:label   "Heist [NMBS/SNCB]" ;
+        geo:lat      "51.333979" ;
+        geo:long     "3.239181" .
+
+<http://irail.be/stations/NMBS/008885522>
+        rdfs:label   "Antoing [NMBS/SNCB]" ;
+        geo:lat      "50.569626" ;
+        geo:long     "3.451309" .
+
+<http://irail.be/stations/NMBS/008871183>
+        rdfs:label   "Beignee [NMBS/SNCB]" ;
+        geo:lat      "50.333893" ;
+        geo:long     "4.406305" .
+
+<http://irail.be/stations/NMBS/008895869>
+        rdfs:label   "Haaltert [NMBS/SNCB]" ;
+        geo:lat      "50.906838" ;
+        geo:long     "4.023958" .
+
+<http://irail.be/stations/NMBS/008832250>
+        rdfs:label   "Zolder [NMBS/SNCB]" ;
+        geo:lat      "51.030000" ;
+        geo:long     "5.330000" .
+
+<http://irail.be/stations/NMBS/008814118>
+        rdfs:label   "Vorst-Oost [NMBS/SNCB]" ;
+        geo:lat      "50.810195" ;
+        geo:long     "4.320943" .
+
+<http://irail.be/stations/NMBS/008884889>
+        rdfs:label   "Callenelle [NMBS/SNCB]" ;
+        geo:lat      "50.527359" ;
+        geo:long     "3.526180" .
+
+<http://irail.be/stations/NMBS/008866654>
+        rdfs:label   "Aubange [NMBS/SNCB]" ;
+        geo:lat      "49.564093" ;
+        geo:long     "5.798060" .
+
+<http://irail.be/stations/NMBS/008200940>
+        rdfs:label   "Rodange (l)" ;
+        geo:lat      "49.551283" ;
+        geo:long     "5.845028" .
+
+<http://irail.be/stations/NMBS/008892106>
+        rdfs:label   "Deinze [NMBS/SNCB]" ;
+        geo:lat      "50.978258" ;
+        geo:long     "3.534432" .
+
+<http://irail.be/stations/NMBS/008821105>
+        rdfs:label   "Noorderkempen [NMBS/SNCB]" ;
+        geo:lat      "51.356838" ;
+        geo:long     "4.632204" .
+
+<http://irail.be/stations/NMBS/008833605>
+        rdfs:label   "Landen [NMBS/SNCB]" ;
+        geo:lat      "50.747927" ;
+        geo:long     "5.079660" .
+
+<http://irail.be/stations/NMBS/008821832>
+        rdfs:label   "Heist-Op-Den-Berg [NMBS/SNCB]" ;
+        geo:lat      "51.074146" ;
+        geo:long     "4.708235" .
+
+<http://irail.be/stations/NMBS/008863461>
+        rdfs:label   "Marche-Les-Dames [NMBS/SNCB]" ;
+        geo:lat      "50.480741" ;
+        geo:long     "4.964580" .
+
+<http://irail.be/stations/NMBS/008892908>
+        rdfs:label   "Ronse [NMBS/SNCB]" ;
+        geo:lat      "50.742506" ;
+        geo:long     "3.602552" .
+
+<http://irail.be/stations/NMBS/008832433>
+        rdfs:label   "Geel [NMBS/SNCB]" ;
+        geo:lat      "51.168955" ;
+        geo:long     "4.988608" .
+
+<http://irail.be/stations/NMBS/008871381>
+        rdfs:label   "Godarville [NMBS/SNCB]" ;
+        geo:lat      "50.492795" ;
+        geo:long     "4.290308" .
+
+<http://irail.be/stations/NMBS/008833175>
+        rdfs:label   "Wijgmaal [NMBS/SNCB]" ;
+        geo:lat      "50.922740" ;
+        geo:long     "4.701475" .
+
+<http://irail.be/stations/NMBS/008841467>
+        rdfs:label   "Fexhe-Le-Haut-Clocher [NMBS/SNCB]" ;
+        geo:lat      "50.664049" ;
+        geo:long     "5.398453" .
+
+<http://irail.be/stations/NMBS/008841673>
+        rdfs:label   "Liers [NMBS/SNCB]" ;
+        geo:lat      "50.698181" ;
+        geo:long     "5.566830" .
+
+<http://irail.be/stations/NMBS/008812070>
+        rdfs:label   "Asse [NMBS/SNCB]" ;
+        geo:lat      "50.906488" ;
+        geo:long     "4.207985" .
+
+<http://irail.be/stations/NMBS/008892288>
+        rdfs:label   "Aarsele [NMBS/SNCB]" ;
+        geo:lat      "50.984460" ;
+        geo:long     "3.418363" .
+
+<http://irail.be/stations/NMBS/008833233>
+        rdfs:label   "Wezemaal [NMBS/SNCB]" ;
+        geo:lat      "50.956261" ;
+        geo:long     "4.747679" .
+
+<http://irail.be/stations/NMBS/008893526>
+        rdfs:label   "Schoonaarde [NMBS/SNCB]" ;
+        geo:lat      "51.003149" ;
+        geo:long     "4.011094" .
+
+<http://irail.be/stations/NMBS/008814126>
+        rdfs:label   "Ukkel-Stalle [NMBS/SNCB]" ;
+        geo:lat      "50.802411" ;
+        geo:long     "4.323901" .
+
+<http://irail.be/stations/NMBS/008842036>
+        rdfs:label   "Chenee [NMBS/SNCB]" ;
+        geo:lat      "50.608019" ;
+        geo:long     "5.616073" .
+
+<http://irail.be/stations/NMBS/008863867>
+        rdfs:label   "Beauraing [NMBS/SNCB]" ;
+        geo:lat      "50.114430" ;
+        geo:long     "4.956840" .
+
+<http://irail.be/stations/NMBS/008895877>
+        rdfs:label   "Ede [NMBS/SNCB]" ;
+        geo:lat      "50.911054" ;
+        geo:long     "3.987524" .
+
+<http://irail.be/stations/NMBS/008891652>
+        rdfs:label   "Duinbergen [NMBS/SNCB]" ;
+        geo:lat      "51.338195" ;
+        geo:long     "3.263587" .
+
+<http://irail.be/stations/NMBS/008873122>
+        rdfs:label   "Philippeville [NMBS/SNCB]" ;
+        geo:lat      "50.191639" ;
+        geo:long     "4.535956" .
+
+<http://irail.be/stations/NMBS/008895737>
+        rdfs:label   "Zandbergen [NMBS/SNCB]" ;
+        geo:lat      "50.806986" ;
+        geo:long     "3.957653" .
+
+<http://irail.be/stations/NMBS/008891553>
+        rdfs:label   "Zeebrugge-Dorp [NMBS/SNCB]" ;
+        geo:lat      "51.326383" ;
+        geo:long     "3.195170" .
+
+<http://irail.be/stations/NMBS/008866142>
+        rdfs:label   "Habay [NMBS/SNCB]" ;
+        geo:lat      "49.718249" ;
+        geo:long     "5.632685" .
+
+<http://irail.be/stations/NMBS/008831781>
+        rdfs:label   "Bokrijk [NMBS/SNCB]" ;
+        geo:lat      "50.955812" ;
+        geo:long     "5.408386" .
+
+<http://irail.be/stations/NMBS/008885530>
+        rdfs:label   "Maubray [NMBS/SNCB]" ;
+        geo:lat      "50.547557" ;
+        geo:long     "3.495527" .
+
+<http://irail.be/stations/NMBS/008866662>
+        rdfs:label   "Messancy [NMBS/SNCB]" ;
+        geo:lat      "49.592777" ;
+        geo:long     "5.818915" .
+
+<http://irail.be/stations/NMBS/008882701>
+        rdfs:label   "Manage [NMBS/SNCB]" ;
+        geo:lat      "50.506108" ;
+        geo:long     "4.234683" .
+
+<http://irail.be/stations/NMBS/008872009>
+        rdfs:label   "Charleroi-Zuid [NMBS/SNCB]" ;
+        geo:lat      "50.404710" ;
+        geo:long     "4.438567" .
+
+<http://irail.be/stations/NMBS/008841665>
+        rdfs:label   "Milmort [NMBS/SNCB]" ;
+        geo:lat      "50.692455" ;
+        geo:long     "5.600090" .
+
+<http://irail.be/stations/NMBS/008892403>
+        rdfs:label   "Kortemark [NMBS/SNCB]" ;
+        geo:lat      "51.025244" ;
+        geo:long     "3.043459" .
+
+<http://irail.be/stations/NMBS/008822772>
+        rdfs:label   "Bornem [NMBS/SNCB]" ;
+        geo:lat      "51.099225" ;
+        geo:long     "4.240526" .
+
+<http://irail.be/stations/NMBS/008895729>
+        rdfs:label   "Idegem [NMBS/SNCB]" ;
+        geo:lat      "50.801871" ;
+        geo:long     "3.921553" .
+
+<http://irail.be/stations/NMBS/008821824>
+        rdfs:label   "Melkouwen [NMBS/SNCB]" ;
+        geo:lat      "51.094938" ;
+        geo:long     "4.671532" .
+
+<http://irail.be/stations/NMBS/008893518>
+        rdfs:label   "Oudegem [NMBS/SNCB]" ;
+        geo:lat      "51.015230" ;
+        geo:long     "4.064472" .
+
+<http://irail.be/stations/NMBS/008200134>
+        rdfs:label   "Clervaux (l)" ;
+        geo:lat      "50.054724" ;
+        geo:long     "6.031393" .
+
+<http://irail.be/stations/NMBS/008861416>
+        rdfs:label   "Lonzee [NMBS/SNCB]" ;
+        geo:lat      "50.551935" ;
+        geo:long     "4.720100" .
+
+<http://irail.be/stations/NMBS/008863545>
+        rdfs:label   "Yvoir [NMBS/SNCB]" ;
+        geo:lat      "50.320840" ;
+        geo:long     "4.878643" .
+
+<http://irail.be/stations/NMBS/008200136>
+        rdfs:label   "Troisvierges (l)" ;
+        geo:lat      "50.121109" ;
+        geo:long     "6.000281" .
+
+<http://irail.be/stations/NMBS/008883113>
+        rdfs:label   "Zinnik [NMBS/SNCB]" ;
+        geo:lat      "50.572763" ;
+        geo:long     "4.067519" .
+
+<http://irail.be/stations/NMBS/008821238>
+        rdfs:label   "Mortsel-Oude God [NMBS/SNCB]" ;
+        geo:lat      "51.171256" ;
+        geo:long     "4.455737" .
+
+<http://irail.be/stations/NMBS/008821857>
+        rdfs:label   "Booischot [NMBS/SNCB]" ;
+        geo:lat      "51.037344" ;
+        geo:long     "4.773478" .
+
+<http://irail.be/stations/NMBS/008864824>
+        rdfs:label   "Chapois [NMBS/SNCB]" ;
+        geo:lat      "50.262366" ;
+        geo:long     "5.124255" .
+
+<http://irail.be/stations/NMBS/008844545>
+        rdfs:label   "Dolhain-Gileppe [NMBS/SNCB]" ;
+        geo:lat      "50.616244" ;
+        geo:long     "5.936494" .
+
+<http://irail.be/stations/NMBS/008864923>
+        rdfs:label   "Floree [NMBS/SNCB]" ;
+        geo:lat      "50.357786" ;
+        geo:long     "5.056099" .
+
+<http://irail.be/stations/NMBS/008841400>
+        rdfs:label   "Borgworm [NMBS/SNCB]" ;
+        geo:lat      "50.694549" ;
+        geo:long     "5.249475" .
+
+<http://irail.be/stations/NMBS/008844644>
+        rdfs:label   "Hergenrath [NMBS/SNCB]" ;
+        geo:lat      "50.718209" ;
+        geo:long     "6.041335" .
+
+<http://irail.be/stations/NMBS/008200130>
+        rdfs:label   "Kautenbach (l)" ;
+        geo:lat      "49.952777" ;
+        geo:long     "6.020003" .
+
+<http://irail.be/stations/NMBS/008861317>
+        rdfs:label   "Chapelle-Dieu [NMBS/SNCB]" ;
+        geo:lat      "50.557374" ;
+        geo:long     "4.697627" .
+
+<http://irail.be/stations/NMBS/008865300>
+        rdfs:label   "Bertrix [NMBS/SNCB]" ;
+        geo:lat      "49.852835" ;
+        geo:long     "5.267193" .
+
+<http://irail.be/stations/NMBS/008863446>
+        rdfs:label   "Sclaigneaux [NMBS/SNCB]" ;
+        geo:lat      "50.492247" ;
+        geo:long     "5.026363" .
+
+<http://irail.be/stations/NMBS/008200132>
+        rdfs:label   "Wilwerwiltz (l)" ;
+        geo:lat      "49.988887" ;
+        geo:long     "5.999166" .
+
+<http://irail.be/stations/NMBS/008821337>
+        rdfs:label   "Hove [NMBS/SNCB]" ;
+        geo:lat      "51.154114" ;
+        geo:long     "4.465157" .
+
+<http://irail.be/stations/NMBS/008200133>
+        rdfs:label   "Drauffelt (l)" ;
+        geo:lat      "50.017778" ;
+        geo:long     "6.006106" .
+
+<http://irail.be/stations/NMBS/008811437>
+        rdfs:label   "Bosvoorde [NMBS/SNCB]" ;
+        geo:lat      "50.794698" ;
+        geo:long     "4.408112" .
+
+<http://irail.be/stations/NMBS/008861515>
+        rdfs:label   "Ernage [NMBS/SNCB]" ;
+        geo:lat      "50.590823" ;
+        geo:long     "4.668538" .
+
+<http://irail.be/stations/NMBS/008843406>
+        rdfs:label   "Statte [NMBS/SNCB]" ;
+        geo:lat      "50.528276" ;
+        geo:long     "5.219676" .
+
+<http://irail.be/stations/NMBS/008874724>
+        rdfs:label   "Jemeppe-Sur-Sambre [NMBS/SNCB]" ;
+        geo:lat      "50.450950" ;
+        geo:long     "4.662632" .
+
+<http://irail.be/stations/NMBS/008895802>
+        rdfs:label   "Denderleeuw [NMBS/SNCB]" ;
+        geo:lat      "50.891925" ;
+        geo:long     "4.071825" .
+
+<http://irail.be/stations/NMBS/008893559>
+        rdfs:label   "Wetteren [NMBS/SNCB]" ;
+        geo:lat      "51.001603" ;
+        geo:long     "3.881883" .
+
+<http://irail.be/stations/NMBS/008822459>
+        rdfs:label   "Hever [NMBS/SNCB]" ;
+        geo:lat      "50.997791" ;
+        geo:long     "4.537637" .
+
+<http://irail.be/stations/NMBS/008821659>
+        rdfs:label   "Kessel [NMBS/SNCB]" ;
+        geo:lat      "51.151057" ;
+        geo:long     "4.618459" .
+
+<http://irail.be/stations/NMBS/008892692>
+        rdfs:label   "Sint-Denijs-Boekel [NMBS/SNCB]" ;
+        geo:lat      "50.874297" ;
+        geo:long     "3.698395" .
+
+<http://irail.be/stations/NMBS/008811536>
+        rdfs:label   "Rixensart [NMBS/SNCB]" ;
+        geo:lat      "50.711413" ;
+        geo:long     "4.532855" .
+
+<http://irail.be/stations/NMBS/008866845>
+        rdfs:label   "Florenville [NMBS/SNCB]" ;
+        geo:lat      "49.706967" ;
+        geo:long     "5.331115" .
+
+<http://irail.be/stations/NMBS/008863453>
+        rdfs:label   "Nameche [NMBS/SNCB]" ;
+        geo:lat      "50.470430" ;
+        geo:long     "4.997939" .
+
+<http://irail.be/stations/NMBS/008864816>
+        rdfs:label   "Leignon [NMBS/SNCB]" ;
+        geo:lat      "50.267768" ;
+        geo:long     "5.107778" .
+
+<http://irail.be/stations/NMBS/008874609>
+        rdfs:label   "Tamines [NMBS/SNCB]" ;
+        geo:lat      "50.432235" ;
+        geo:long     "4.608823" .
+
+<http://irail.be/stations/NMBS/008842689>
+        rdfs:label   "Poulseur [NMBS/SNCB]" ;
+        geo:lat      "50.509209" ;
+        geo:long     "5.578858" .
+
+<http://irail.be/stations/NMBS/008864915>
+        rdfs:label   "Natoye [NMBS/SNCB]" ;
+        geo:lat      "50.343296" ;
+        geo:long     "5.061160" .
+
+<http://irail.be/stations/NMBS/008841558>
+        rdfs:label   "Luik-Jonfosse [NMBS/SNCB]" ;
+        geo:lat      "50.640299" ;
+        geo:long     "5.561131" .
+
+<http://irail.be/stations/NMBS/008883006>
+        rdfs:label   "S Gravenbrakel [NMBS/SNCB]" ;
+        geo:lat      "50.605079" ;
+        geo:long     "4.137662" .
+
+<http://irail.be/stations/NMBS/008721405>
+        rdfs:label   "Selestat (f)" ;
+        geo:lat      "48.266670" ;
+        geo:long     "7.449999" .
+
+<http://irail.be/stations/NMBS/008881158>
+        rdfs:label   "Erbisoeul [NMBS/SNCB]" ;
+        geo:lat      "50.507025" ;
+        geo:long     "3.887987" .
+
+<http://irail.be/stations/NMBS/008895711>
+        rdfs:label   "Schendelbeke [NMBS/SNCB]" ;
+        geo:lat      "50.797844" ;
+        geo:long     "3.899286" .
+
+<http://irail.be/stations/NMBS/008811429>
+        rdfs:label   "Watermaal [NMBS/SNCB]" ;
+        geo:lat      "50.809170" ;
+        geo:long     "4.399887" .
+
+<http://irail.be/stations/NMBS/008833001>
+        rdfs:label   "Leuven [NMBS/SNCB]" ;
+        geo:lat      "50.882280" ;
+        geo:long     "4.715866" .
+
+<http://irail.be/stations/NMBS/008893542>
+        rdfs:label   "Schellebelle [NMBS/SNCB]" ;
+        geo:lat      "51.003149" ;
+        geo:long     "3.921373" .
+
+<http://irail.be/stations/NMBS/008874716>
+        rdfs:label   "Auvelais [NMBS/SNCB]" ;
+        geo:lat      "50.449197" ;
+        geo:long     "4.630532" .
+
+<http://irail.be/stations/NMBS/008896412>
+        rdfs:label   "Komen [NMBS/SNCB]" ;
+        geo:lat      "50.772072" ;
+        geo:long     "2.999286" .
+
+<http://irail.be/stations/NMBS/008811528>
+        rdfs:label   "Genval [NMBS/SNCB]" ;
+        geo:lat      "50.725697" ;
+        geo:long     "4.514832" .
+
+<http://irail.be/stations/NMBS/008861432>
+        rdfs:label   "Saint-Denis-Bovesse [NMBS/SNCB]" ;
+        geo:lat      "50.521300" ;
+        geo:long     "4.767788" .
+
+<http://irail.be/stations/NMBS/008844008>
+        rdfs:label   "Verviers-Centraal [NMBS/SNCB]" ;
+        geo:lat      "50.588135" ;
+        geo:long     "5.854917" .
+
+<http://irail.be/stations/NMBS/008821089>
+        rdfs:label   "Antwerpen-Noorderdokken [NMBS/SNCB]" ;
+        geo:lat      "51.261643" ;
+        geo:long     "4.427906" .
+
+<http://irail.be/stations/NMBS/008895430>
+        rdfs:label   "Herzele [NMBS/SNCB]" ;
+        geo:lat      "50.897220" ;
+        geo:long     "3.880616" .
+
+<http://irail.be/stations/NMBS/008015345>
+        rdfs:label   "Aachen Hbf (d)" ;
+        geo:lat      "50.770832" ;
+        geo:long     "6.105275" .
+
+<http://irail.be/stations/NMBS/008863560>
+        rdfs:label   "Godinne [NMBS/SNCB]" ;
+        geo:lat      "50.348914" ;
+        geo:long     "4.869960" .
+
+<http://irail.be/stations/NMBS/008894433>
+        rdfs:label   "Belsele [NMBS/SNCB]" ;
+        geo:lat      "51.150994" ;
+        geo:long     "4.088608" .
+
+<http://irail.be/stations/NMBS/008842655>
+        rdfs:label   "Hony [NMBS/SNCB]" ;
+        geo:lat      "50.539917" ;
+        geo:long     "5.573563" .
+
+<http://irail.be/stations/NMBS/008841525>
+        rdfs:label   "Luik-Paleis [NMBS/SNCB]" ;
+        geo:lat      "50.646349" ;
+        geo:long     "5.570453" .
+
+<http://irail.be/stations/NMBS/008865565>
+        rdfs:label   "Carlsbourg [NMBS/SNCB]" ;
+        geo:lat      "49.905458" ;
+        geo:long     "5.092784" .
+
+<http://irail.be/stations/NMBS/008822475>
+        rdfs:label   "Boortmeerbeek [NMBS/SNCB]" ;
+        geo:lat      "50.981853" ;
+        geo:long     "4.573900" .
+
+<http://irail.be/stations/NMBS/008896305>
+        rdfs:label   "Menen [NMBS/SNCB]" ;
+        geo:lat      "50.799489" ;
+        geo:long     "3.113791" .
+
+<http://irail.be/stations/NMBS/008893070>
+        rdfs:label   "Scheldewindeke [NMBS/SNCB]" ;
+        geo:lat      "50.937069" ;
+        geo:long     "3.777842" .
+
+<http://irail.be/stations/NMBS/008866175>
+        rdfs:label   "Marbehan [NMBS/SNCB]" ;
+        geo:lat      "49.727337" ;
+        geo:long     "5.539755" .
+
+<http://irail.be/stations/NMBS/008881125>
+        rdfs:label   "Ghlin [NMBS/SNCB]" ;
+        geo:lat      "50.487411" ;
+        geo:long     "3.906343" .
+
+<http://irail.be/stations/NMBS/008833266>
+        rdfs:label   "Testelt [NMBS/SNCB]" ;
+        geo:lat      "51.009864" ;
+        geo:long     "4.945829" .
+
+<http://irail.be/stations/NMBS/008811411>
+        rdfs:label   "Etterbeek [NMBS/SNCB]" ;
+        geo:lat      "50.822187" ;
+        geo:long     "4.389513" .
+
+<http://irail.be/stations/NMBS/008833134>
+        rdfs:label   "Oud-Heverlee [NMBS/SNCB]" ;
+        geo:lat      "50.835931" ;
+        geo:long     "4.653311" .
+
+<http://irail.be/stations/NMBS/008844206>
+        rdfs:label   "Pepinster [NMBS/SNCB]" ;
+        geo:lat      "50.568179" ;
+        geo:long     "5.806150" .
+
+<http://irail.be/stations/NMBS/008884632>
+        rdfs:label   "Ville-Pommeroeul [NMBS/SNCB]" ;
+        geo:lat      "50.464542" ;
+        geo:long     "3.724248" .
+
+<http://irail.be/stations/NMBS/008842663>
+        rdfs:label   "Esneux [NMBS/SNCB]" ;
+        geo:lat      "50.530568" ;
+        geo:long     "5.572565" .
+
+<http://irail.be/stations/NMBS/008821865>
+        rdfs:label   "Begijnendijk [NMBS/SNCB]" ;
+        geo:lat      "51.021972" ;
+        geo:long     "4.800338" .
+
+<http://irail.be/stations/NMBS/008841434>
+        rdfs:label   "Bleret [NMBS/SNCB]" ;
+        geo:lat      "50.685065" ;
+        geo:long     "5.286394" .
+
+<http://irail.be/stations/NMBS/008861424>
+        rdfs:label   "Beuzet [NMBS/SNCB]" ;
+        geo:lat      "50.534208" ;
+        geo:long     "4.748533" .
+
+<http://irail.be/stations/NMBS/008833274>
+        rdfs:label   "Zichem [NMBS/SNCB]" ;
+        geo:lat      "51.006690" ;
+        geo:long     "4.987359" .
+
+<http://irail.be/stations/NMBS/008883121>
+        rdfs:label   "Neufvilles [NMBS/SNCB]" ;
+        geo:lat      "50.543602" ;
+        geo:long     "4.010672" .
+
+<http://irail.be/stations/NMBS/008864931>
+        rdfs:label   "Assesse [NMBS/SNCB]" ;
+        geo:lat      "50.368133" ;
+        geo:long     "5.022839" .
+
+<http://irail.be/stations/NMBS/008895422>
+        rdfs:label   "Hillegem [NMBS/SNCB]" ;
+        geo:lat      "50.891296" ;
+        geo:long     "3.857469" .
+
+<http://irail.be/stations/NMBS/008893062>
+        rdfs:label   "Moortsele [NMBS/SNCB]" ;
+        geo:lat      "50.953519" ;
+        geo:long     "3.781339" .
+
+<http://irail.be/stations/NMBS/008821964>
+        rdfs:label   "Tielen [NMBS/SNCB]" ;
+        geo:lat      "51.241021" ;
+        geo:long     "4.893089" .
+
+<http://irail.be/stations/NMBS/008863438>
+        rdfs:label   "Chateau-De-Seilles [NMBS/SNCB]" ;
+        geo:lat      "50.497209" ;
+        geo:long     "5.081745" .
+
+<http://irail.be/stations/NMBS/008884640>
+        rdfs:label   "Harchies [NMBS/SNCB]" ;
+        geo:lat      "50.482565" ;
+        geo:long     "3.698764" .
+
+<http://irail.be/stations/NMBS/008811544>
+        rdfs:label   "Profondsart [NMBS/SNCB]" ;
+        geo:lat      "50.693758" ;
+        geo:long     "4.549153" .
+
+<http://irail.be/stations/NMBS/008873379>
+        rdfs:label   "Cour-Sur-Heure [NMBS/SNCB]" ;
+        geo:lat      "50.300138" ;
+        geo:long     "4.391491" .
+
+<http://irail.be/stations/NMBS/008821667>
+        rdfs:label   "Nijlen [NMBS/SNCB]" ;
+        geo:lat      "51.159840" ;
+        geo:long     "4.666588" .
+
+<http://irail.be/stations/NMBS/008833126>
+        rdfs:label   "Heverlee [NMBS/SNCB]" ;
+        geo:lat      "50.862530" ;
+        geo:long     "4.695200" .
+
+<http://irail.be/stations/NMBS/008893567>
+        rdfs:label   "Kwatrecht [NMBS/SNCB]" ;
+        geo:lat      "50.991750" ;
+        geo:long     "3.829593" .
+
+<http://irail.be/stations/NMBS/008822343>
+        rdfs:label   "Mechelen-Nekkerspoel [NMBS/SNCB]" ;
+        geo:lat      "51.029883" ;
+        geo:long     "4.489914" .
+
+<http://irail.be/stations/NMBS/008895836>
+        rdfs:label   "Liedekerke [NMBS/SNCB]" ;
+        geo:lat      "50.882531" ;
+        geo:long     "4.095287" .
+
+<http://irail.be/stations/NMBS/008873239>
+        rdfs:label   "Yves-Gomezee [NMBS/SNCB]" ;
+        geo:lat      "50.237133" ;
+        geo:long     "4.492709" .
+
+<http://irail.be/stations/NMBS/008844503>
+        rdfs:label   "Welkenraedt [NMBS/SNCB]" ;
+        geo:lat      "50.659707" ;
+        geo:long     "5.975381" .
+
+<http://irail.be/stations/NMBS/008892452>
+        rdfs:label   "Diksmuide [NMBS/SNCB]" ;
+        geo:lat      "51.032723" ;
+        geo:long     "2.868943" .
+
+<http://irail.be/stations/NMBS/008865128>
+        rdfs:label   "Bastenaken-Noord [NMBS/SNCB]" ;
+        geo:lat      "50.006919" ;
+        geo:long     "5.720744" .
+
+<http://irail.be/stations/NMBS/008881000>
+        rdfs:label   "Bergen [NMBS/SNCB]" ;
+        geo:lat      "50.453854" ;
+        geo:long     "3.942542" .
+
+<http://irail.be/stations/NMBS/008811775>
+        rdfs:label   "Pecrot [NMBS/SNCB]" ;
+        geo:lat      "50.778517" ;
+        geo:long     "4.651486" .
+
+<http://irail.be/stations/NMBS/008893054>
+        rdfs:label   "Landskouter [NMBS/SNCB]" ;
+        geo:lat      "50.970545" ;
+        geo:long     "3.791146" .
+
+<http://irail.be/stations/NMBS/008892320>
+        rdfs:label   "Koksijde [NMBS/SNCB]" ;
+        geo:lat      "51.079197" ;
+        geo:long     "2.652770" .
+
+<http://irail.be/stations/NMBS/008728683>
+        rdfs:label   "Pont De Bois (f)" ;
+        geo:lat      "50.624164" ;
+        geo:long     "3.127500" .
+
+<http://irail.be/stations/NMBS/008822210>
+        rdfs:label   "Duffel [NMBS/SNCB]" ;
+        geo:lat      "51.091243" ;
+        geo:long     "4.493186" .
+
+<http://irail.be/stations/NMBS/008728686>
+        rdfs:label   "Ascq (f)" ;
+        geo:lat      "50.616666" ;
+        geo:long     "3.166666" .
+
+<http://irail.be/stations/NMBS/008863404>
+        rdfs:label   "Andenne [NMBS/SNCB]" ;
+        geo:lat      "50.496759" ;
+        geo:long     "5.094699" .
+
+<http://irail.be/stations/NMBS/008728685>
+        rdfs:label   "Annappes (f)" ;
+        geo:lat      "50.633333" ;
+        geo:long     "3.150000" .
+
+<http://irail.be/stations/NMBS/008822111>
+        rdfs:label   "Londerzeel [NMBS/SNCB]" ;
+        geo:lat      "51.009091" ;
+        geo:long     "4.299073" .
+
+<http://irail.be/stations/NMBS/008863503>
+        rdfs:label   "Dinant [NMBS/SNCB]" ;
+        geo:lat      "50.260721" ;
+        geo:long     "4.908182" .
+
+<http://irail.be/stations/NMBS/008811676>
+        rdfs:label   "Louvain-La-Neuve-Univ. [NMBS/SNCB]" ;
+        geo:lat      "50.669793" ;
+        geo:long     "4.615745" .
+
+<http://irail.be/stations/NMBS/008894508>
+        rdfs:label   "Sint-Niklaas [NMBS/SNCB]" ;
+        geo:lat      "51.171472" ;
+        geo:long     "4.142966" .
+
+<http://irail.be/stations/NMBS/008821063>
+        rdfs:label   "Antwerpen-Luchtbal [NMBS/SNCB]" ;
+        geo:lat      "51.244132" ;
+        geo:long     "4.425029" .
+
+<http://irail.be/stations/NMBS/008844404>
+        rdfs:label   "Spa [NMBS/SNCB]" ;
+        geo:lat      "50.490305" ;
+        geo:long     "5.855096" .
+
+<http://irail.be/stations/NMBS/008865615>
+        rdfs:label   "Graide [NMBS/SNCB]" ;
+        geo:lat      "49.934134" ;
+        geo:long     "5.043047" .
+
+<http://irail.be/stations/NMBS/008728687>
+        rdfs:label   "Baisieux (f)" ;
+        geo:lat      "50.600000" ;
+        geo:long     "3.249996" .
+
+<http://irail.be/stations/NMBS/008884715>
+        rdfs:label   "Blaton [NMBS/SNCB]" ;
+        geo:lat      "50.505461" ;
+        geo:long     "3.666304" .
+
+<http://irail.be/stations/NMBS/008875002>
+        rdfs:label   "Mariembourg [NMBS/SNCB]" ;
+        geo:lat      "50.095490" ;
+        geo:long     "4.525691" .
+
+<http://irail.be/stations/NMBS/008865540>
+        rdfs:label   "Paliseul [NMBS/SNCB]" ;
+        geo:lat      "49.895408" ;
+        geo:long     "5.118349" .
+
+<http://irail.be/stations/NMBS/008200100>
+        rdfs:label   "Luxembourg (l)" ;
+        geo:lat      "49.599996" ;
+        geo:long     "6.133331" .
+
+<http://irail.be/stations/NMBS/008893443>
+        rdfs:label   "Sint-Gillis [NMBS/SNCB]" ;
+        geo:lat      "51.021693" ;
+        geo:long     "4.117832" .
+
+<http://irail.be/stations/NMBS/008893708>
+        rdfs:label   "Eeklo [NMBS/SNCB]" ;
+        geo:lat      "51.181333" ;
+        geo:long     "3.574515" .
+
+<http://irail.be/stations/NMBS/008894425>
+        rdfs:label   "Sinaai [NMBS/SNCB]" ;
+        geo:lat      "51.143398" ;
+        geo:long     "4.068940" .
+
+<http://irail.be/stations/NMBS/008811767>
+        rdfs:label   "Florival [NMBS/SNCB]" ;
+        geo:lat      "50.761501" ;
+        geo:long     "4.653868" .
+
+<http://irail.be/stations/NMBS/008872066>
+        rdfs:label   "Charleroi-West [NMBS/SNCB]" ;
+        geo:lat      "50.410948" ;
+        geo:long     "4.436653" .
+
+<http://irail.be/stations/NMBS/008893047>
+        rdfs:label   "Gontrode [NMBS/SNCB]" ;
+        geo:lat      "50.980199" ;
+        geo:long     "3.801672" .
+
+<http://irail.be/stations/NMBS/008822228>
+        rdfs:label   "Sint-Katelijne-Waver [NMBS/SNCB]" ;
+        geo:lat      "51.069975" ;
+        geo:long     "4.496116" .
+
+<http://irail.be/stations/NMBS/008811460>
+        rdfs:label   "Hoeilaart [NMBS/SNCB]" ;
+        geo:lat      "50.760161" ;
+        geo:long     "4.467414" .
+
+<http://irail.be/stations/NMBS/008400424>
+        rdfs:label   "Maastricht (nl)" ;
+        geo:lat      "50.850000" ;
+        geo:long     "5.683331" .
+
+<http://irail.be/stations/NMBS/008866605>
+        rdfs:label   "Athus [NMBS/SNCB]" ;
+        geo:lat      "49.563346" ;
+        geo:long     "5.828947" .
+
+<http://irail.be/stations/NMBS/008821071>
+        rdfs:label   "Ekeren [NMBS/SNCB]" ;
+        geo:lat      "51.281626" ;
+        geo:long     "4.434154" .
+
+<http://irail.be/stations/NMBS/008400426>
+        rdfs:label   "Maastricht Randwyck" ;
+        geo:lat      "50.838502" ;
+        geo:long     "5.716707" .
+
+<http://irail.be/stations/NMBS/008822426>
+        rdfs:label   "Muizen [NMBS/SNCB]" ;
+        geo:lat      "51.008201" ;
+        geo:long     "4.513843" .
+
+<http://irail.be/stations/NMBS/008844255>
+        rdfs:label   "Fraipont [NMBS/SNCB]" ;
+        geo:lat      "50.565059" ;
+        geo:long     "5.723665" .
+
+<http://irail.be/stations/NMBS/008821600>
+        rdfs:label   "Lier [NMBS/SNCB]" ;
+        geo:lat      "51.135758" ;
+        geo:long     "4.560614" .
+
+<http://irail.be/stations/NMBS/008400526>
+        rdfs:label   "Roosendaal (nl)" ;
+        geo:lat      "51.533333" ;
+        geo:long     "4.466667" .
+
+<http://irail.be/stations/NMBS/008873312>
+        rdfs:label   "Pry [NMBS/SNCB]" ;
+        geo:lat      "50.269278" ;
+        geo:long     "4.428805" .
+
+<http://irail.be/stations/NMBS/008841319>
+        rdfs:label   "Bierset-Awans [NMBS/SNCB]" ;
+        geo:lat      "50.658610" ;
+        geo:long     "5.460551" .
+
+<http://irail.be/stations/NMBS/008893583>
+        rdfs:label   "Serskamp [NMBS/SNCB]" ;
+        geo:lat      "50.984397" ;
+        geo:long     "3.959361" .
+
+<http://irail.be/stations/NMBS/008861549>
+        rdfs:label   "Mont-Saint-Guibert [NMBS/SNCB]" ;
+        geo:lat      "50.637611" ;
+        geo:long     "4.613884" .
+
+<http://irail.be/stations/NMBS/008865227>
+        rdfs:label   "Poix-Saint-Hubert [NMBS/SNCB]" ;
+        geo:lat      "50.019504" ;
+        geo:long     "5.292641" .
+
+<http://irail.be/stations/NMBS/008200110>
+        rdfs:label   "Mersch (l)" ;
+        geo:lat      "49.748893" ;
+        geo:long     "6.106111" .
+
+<http://irail.be/stations/NMBS/008865003>
+        rdfs:label   "Libramont [NMBS/SNCB]" ;
+        geo:lat      "49.920434" ;
+        geo:long     "5.379270" .
+
+<http://irail.be/stations/NMBS/008892304>
+        rdfs:label   "Veurne [NMBS/SNCB]" ;
+        geo:lat      "51.073867" ;
+        geo:long     "2.669940" .
+
+<http://irail.be/stations/NMBS/008866001>
+        rdfs:label   "Aarlen [NMBS/SNCB]" ;
+        geo:lat      "49.680530" ;
+        geo:long     "5.809971" .
+
+<http://irail.be/stations/NMBS/008893179>
+        rdfs:label   "Gentbrugge [NMBS/SNCB]" ;
+        geo:lat      "51.038647" ;
+        geo:long     "3.756322" .
+
+<http://irail.be/stations/NMBS/008893815>
+        rdfs:label   "Waarschoot [NMBS/SNCB]" ;
+        geo:lat      "51.154608" ;
+        geo:long     "3.615353" .
+
+<http://irail.be/stations/NMBS/008821048>
+        rdfs:label   "Antwerpen-Haven [NMBS/SNCB]" ;
+        geo:lat      "51.289968" ;
+        geo:long     "4.379086" .
+
+<http://irail.be/stations/NMBS/008892205>
+        rdfs:label   "Lichtervelde [NMBS/SNCB]" ;
+        geo:lat      "51.025163" ;
+        geo:long     "3.127212" .
+
+<http://irail.be/stations/NMBS/008844628>
+        rdfs:label   "Eupen [NMBS/SNCB]" ;
+        geo:lat      "50.635157" ;
+        geo:long     "6.037110" .
+
+<http://irail.be/stations/NMBS/008893039>
+        rdfs:label   "Melle [NMBS/SNCB]" ;
+        geo:lat      "51.002807" ;
+        geo:long     "3.797088" .
+
+<http://irail.be/stations/NMBS/008873320>
+        rdfs:label   "Berzee [NMBS/SNCB]" ;
+        geo:lat      "50.285603" ;
+        geo:long     "4.405909" .
+
+<http://irail.be/stations/NMBS/008821634>
+        rdfs:label   "Boechout [NMBS/SNCB]" ;
+        geo:lat      "51.163480" ;
+        geo:long     "4.494489" .
+
+<http://irail.be/stations/NMBS/008400530>
+        rdfs:label   "Rotterdam Cs (nl)" ;
+        geo:lat      "51.916668" ;
+        geo:long     "4.500000" .
+
+<http://irail.be/stations/NMBS/008844420>
+        rdfs:label   "Spa-Geronstere [NMBS/SNCB]" ;
+        geo:lat      "50.489307" ;
+        geo:long     "5.866207" .
+
+<http://irail.be/stations/NMBS/008862018>
+        rdfs:label   "Stockem [NMBS/SNCB]" ;
+        geo:lat      "49.690939" ;
+        geo:long     "5.769115" .
+
+<http://irail.be/stations/NMBS/008875127>
+        rdfs:label   "Couvin [NMBS/SNCB]" ;
+        geo:lat      "50.056324" ;
+        geo:long     "4.491702" .
+
+<http://irail.be/stations/NMBS/008883238>
+        rdfs:label   "Familleureux [NMBS/SNCB]" ;
+        geo:lat      "50.519358" ;
+        geo:long     "4.211581" .
+
+<http://irail.be/stations/NMBS/008861531>
+        rdfs:label   "Blanmont [NMBS/SNCB]" ;
+        geo:lat      "50.619453" ;
+        geo:long     "4.636393" .
+
+<http://irail.be/stations/NMBS/008821451>
+        rdfs:label   "Kijkuit [NMBS/SNCB]" ;
+        geo:lat      "51.378664" ;
+        geo:long     "4.467315" .
+
+<http://irail.be/stations/NMBS/008844230>
+        rdfs:label   "Nessonvaux [NMBS/SNCB]" ;
+        geo:lat      "50.572089" ;
+        geo:long     "5.741581" .
+
+<http://irail.be/stations/NMBS/008815040>
+        rdfs:label   "Brussel-West [NMBS/SNCB]" ;
+        geo:lat      "50.848552" ;
+        geo:long     "4.321042" .
+
+<http://irail.be/stations/NMBS/008821246>
+        rdfs:label   "Mortsel-Liersesteenweg [NMBS/SNCB]" ;
+        geo:lat      "51.169027" ;
+        geo:long     "4.468843" .
+
+<http://irail.be/stations/NMBS/008200120>
+        rdfs:label   "Ettelbruck (l)" ;
+        geo:lat      "49.847496" ;
+        geo:long     "6.104169" .
+
+<http://irail.be/stations/NMBS/008831310>
+        rdfs:label   "Tongeren [NMBS/SNCB]" ;
+        geo:lat      "50.784405" ;
+        geo:long     "5.473280" .
+
+<http://irail.be/stations/NMBS/008883022>
+        rdfs:label   "Hennuyeres [NMBS/SNCB]" ;
+        geo:lat      "50.651005" ;
+        geo:long     "4.175893" .
+
+<http://irail.be/stations/NMBS/008884541>
+        rdfs:label   "Quaregnon [NMBS/SNCB]" ;
+        geo:lat      "50.449827" ;
+        geo:long     "3.856543" .
+
+<http://irail.be/stations/NMBS/008811445>
+        rdfs:label   "Groenendaal [NMBS/SNCB]" ;
+        geo:lat      "50.766103" ;
+        geo:long     "4.449489" .
+
+<http://irail.be/stations/NMBS/008884004>
+        rdfs:label   "Saint-Ghislain [NMBS/SNCB]" ;
+        geo:lat      "50.442860" ;
+        geo:long     "3.820253" .
+
+<http://irail.be/stations/NMBS/008831112>
+        rdfs:label   "Diepenbeek [NMBS/SNCB]" ;
+        geo:lat      "50.910452" ;
+        geo:long     "5.419947" .
+
+<http://irail.be/stations/NMBS/008883220>
+        rdfs:label   "Marche-Lez-Ecaussinnes [NMBS/SNCB]" ;
+        geo:lat      "50.546173" ;
+        geo:long     "4.177098" .
+
+<http://irail.be/stations/NMBS/008821444>
+        rdfs:label   "Kalmthout [NMBS/SNCB]" ;
+        geo:lat      "51.391177" ;
+        geo:long     "4.466820" .
+
+<http://irail.be/stations/NMBS/008894201>
+        rdfs:label   "Lokeren [NMBS/SNCB]" ;
+        geo:lat      "51.108062" ;
+        geo:long     "3.987794" .
+
+<http://irail.be/stations/NMBS/008843430>
+        rdfs:label   "Bas-Oha [NMBS/SNCB]" ;
+        geo:lat      "50.522630" ;
+        geo:long     "5.190937" .
+
+<http://irail.be/stations/NMBS/008821725>
+        rdfs:label   "Bouwel [NMBS/SNCB]" ;
+        geo:lat      "51.165764" ;
+        geo:long     "4.746511" .
+
+<http://irail.be/stations/NMBS/008861523>
+        rdfs:label   "Chastre [NMBS/SNCB]" ;
+        geo:lat      "50.608819" ;
+        geo:long     "4.648888" .
+
+<http://irail.be/stations/NMBS/008821196>
+        rdfs:label   "Antwerpen-Zuid [NMBS/SNCB]" ;
+        geo:lat      "51.197828" ;
+        geo:long     "4.390259" .
+
+<http://irail.be/stations/NMBS/008811205>
+        rdfs:label   "Delta [NMBS/SNCB]" ;
+        geo:lat      "50.818357" ;
+        geo:long     "4.403869" .
+
+<http://irail.be/stations/NMBS/008844339>
+        rdfs:label   "Theux [NMBS/SNCB]" ;
+        geo:lat      "50.536159" ;
+        geo:long     "5.815031" .
+
+<http://irail.be/stations/NMBS/008831138>
+        rdfs:label   "Bilzen [NMBS/SNCB]" ;
+        geo:lat      "50.868643" ;
+        geo:long     "5.509380" .
+
+<http://irail.be/stations/NMBS/008200518>
+        rdfs:label   "Capellen (l)" ;
+        geo:lat      "49.644996" ;
+        geo:long     "5.990833" .
+
+<http://irail.be/stations/NMBS/008831039>
+        rdfs:label   "Alken [NMBS/SNCB]" ;
+        geo:lat      "50.886837" ;
+        geo:long     "5.292866" .
+
+<http://irail.be/stations/NMBS/008200516>
+        rdfs:label   "Mamer (l)" ;
+        geo:lat      "49.627502" ;
+        geo:long     "6.023330" .
+
+<http://irail.be/stations/NMBS/008896230>
+        rdfs:label   "Vichte [NMBS/SNCB]" ;
+        geo:lat      "50.833657" ;
+        geo:long     "3.391630" .
+
+<http://irail.be/stations/NMBS/008811726>
+        rdfs:label   "Waver [NMBS/SNCB]" ;
+        geo:lat      "50.716267" ;
+        geo:long     "4.604778" .
+
+<http://irail.be/stations/NMBS/008896735>
+        rdfs:label   "Poperinge [NMBS/SNCB]" ;
+        geo:lat      "50.854449" ;
+        geo:long     "2.736343" .
+
+<http://irail.be/stations/NMBS/008845005>
+        rdfs:label   "Gouvy [NMBS/SNCB]" ;
+        geo:lat      "50.189409" ;
+        geo:long     "5.953906" .
+
+<http://irail.be/stations/NMBS/008200520>
+        rdfs:label   "Kleinbettingen (l)" ;
+        geo:lat      "49.646389" ;
+        geo:long     "5.916385" .
+
+<http://irail.be/stations/NMBS/008881570>
+        rdfs:label   "Frameries [NMBS/SNCB]" ;
+        geo:lat      "50.405932" ;
+        geo:long     "3.906586" .
+
+<http://irail.be/stations/NMBS/008871647>
+        rdfs:label   "Erquelinnes-Village [NMBS/SNCB]" ;
+        geo:lat      "50.310179" ;
+        geo:long     "4.132314" .
+
+<http://irail.be/stations/NMBS/008822004>
+        rdfs:label   "Mechelen [NMBS/SNCB]" ;
+        geo:lat      "51.017648" ;
+        geo:long     "4.482785" .
+
+<http://irail.be/stations/NMBS/008882206>
+        rdfs:label   "La Louviere-Zuid [NMBS/SNCB]" ;
+        geo:lat      "50.464974" ;
+        geo:long     "4.190609" .
+
+<http://irail.be/stations/NMBS/008874054>
+        rdfs:label   "Couillet [NMBS/SNCB]" ;
+        geo:lat      "50.392718" ;
+        geo:long     "4.468510" .
+
+<http://irail.be/stations/NMBS/008845146>
+        rdfs:label   "Vielsalm [NMBS/SNCB]" ;
+        geo:lat      "50.278933" ;
+        geo:long     "5.909211" .
+
+<http://irail.be/stations/NMBS/008893120>
+        rdfs:label   "Gent-Dampoort [NMBS/SNCB]" ;
+        geo:lat      "51.056365" ;
+        geo:long     "3.740591" .
+
+<http://irail.be/stations/NMBS/008811213>
+        rdfs:label   "Diegem [NMBS/SNCB]" ;
+        geo:lat      "50.890478" ;
+        geo:long     "4.442774" .
+
+<http://irail.be/stations/NMBS/008821535>
+        rdfs:label   "Kapellen [NMBS/SNCB]" ;
+        geo:lat      "51.313528" ;
+        geo:long     "4.432661" .
+
+<http://irail.be/stations/NMBS/008894235>
+        rdfs:label   "Zele [NMBS/SNCB]" ;
+        geo:lat      "51.073256" ;
+        geo:long     "4.041999" .
+
+<http://irail.be/stations/NMBS/008844347>
+        rdfs:label   "Franchimont [NMBS/SNCB]" ;
+        geo:lat      "50.525723" ;
+        geo:long     "5.822223" .
+
+<http://irail.be/stations/NMBS/008883436>
+        rdfs:label   "Opzullik [NMBS/SNCB]" ;
+        geo:lat      "50.662386" ;
+        geo:long     "3.935863" .
+
+<http://irail.be/stations/NMBS/008874583>
+        rdfs:label   "Aiseau [NMBS/SNCB]" ;
+        geo:lat      "50.429529" ;
+        geo:long     "4.584552" .
+
+<http://irail.be/stations/NMBS/008821436>
+        rdfs:label   "Wildert [NMBS/SNCB]" ;
+        geo:lat      "51.428087" ;
+        geo:long     "4.463350" .
+
+<http://irail.be/stations/NMBS/008831807>
+        rdfs:label   "Sint-Truiden [NMBS/SNCB]" ;
+        geo:lat      "50.817620" ;
+        geo:long     "5.176654" .
+
+<http://irail.be/stations/NMBS/008811734>
+        rdfs:label   "Basse-Wavre [NMBS/SNCB]" ;
+        geo:lat      "50.724420" ;
+        geo:long     "4.621651" .
+
+<http://irail.be/stations/NMBS/008200510>
+        rdfs:label   "Bertrange Strassen (l)" ;
+        geo:lat      "49.611106" ;
+        geo:long     "6.050000" .
+
+<http://irail.be/stations/NMBS/008884335>
+        rdfs:label   "Quievrain [NMBS/SNCB]" ;
+        geo:lat      "50.410103" ;
+        geo:long     "3.686080" .
+
+<http://irail.be/stations/NMBS/008894672>
+        rdfs:label   "Temse [NMBS/SNCB]" ;
+        geo:lat      "51.126085" ;
+        geo:long     "4.221352" .
+
+<http://irail.be/stations/NMBS/008861168>
+        rdfs:label   "Ham-Sur-Sambre [NMBS/SNCB]" ;
+        geo:lat      "50.452550" ;
+        geo:long     "4.669392" .
+
+<http://irail.be/stations/NMBS/008846201>
+        rdfs:label   "Wezet [NMBS/SNCB]" ;
+        geo:lat      "50.737760" ;
+        geo:long     "5.692544" .
+
+<http://irail.be/stations/NMBS/008845203>
+        rdfs:label   "Trois-Ponts [NMBS/SNCB]" ;
+        geo:lat      "50.368214" ;
+        geo:long     "5.873578" .
+
+<http://irail.be/stations/NMBS/008881562>
+        rdfs:label   "Genly [NMBS/SNCB]" ;
+        geo:lat      "50.390642" ;
+        geo:long     "3.911638" .
+
+<http://irail.be/stations/NMBS/008811635>
+        rdfs:label   "Limal [NMBS/SNCB]" ;
+        geo:lat      "50.692140" ;
+        geo:long     "4.575302" .
+
+<http://irail.be/stations/NMBS/008811221>
+        rdfs:label   "Zaventem [NMBS/SNCB]" ;
+        geo:lat      "50.885723" ;
+        geo:long     "4.469886" .
+
+<http://irail.be/stations/NMBS/008821402>
+        rdfs:label   "Essen [NMBS/SNCB]" ;
+        geo:lat      "51.462767" ;
+        geo:long     "4.451314" .
+
+<http://irail.be/stations/NMBS/008874559>
+        rdfs:label   "Le Campinaire [NMBS/SNCB]" ;
+        geo:lat      "50.428936" ;
+        geo:long     "4.552586" .
+
+<http://irail.be/stations/NMBS/008821543>
+        rdfs:label   "Sint-Mariaburg [NMBS/SNCB]" ;
+        geo:lat      "51.291658" ;
+        geo:long     "4.434900" .
+
+<http://irail.be/stations/NMBS/008864956>
+        rdfs:label   "Sart-Bernard [NMBS/SNCB]" ;
+        geo:lat      "50.406373" ;
+        geo:long     "4.949739" .
+
+<http://irail.be/stations/NMBS/008844313>
+        rdfs:label   "Pepinster-Cite [NMBS/SNCB]" ;
+        geo:lat      "50.563405" ;
+        geo:long     "5.804397" .
+
+<http://irail.be/stations/NMBS/008896115>
+        rdfs:label   "Harelbeke [NMBS/SNCB]" ;
+        geo:lat      "50.855860" ;
+        geo:long     "3.314008" .
+
+<http://irail.be/stations/NMBS/008861440>
+        rdfs:label   "Rhisnes [NMBS/SNCB]" ;
+        geo:lat      "50.499348" ;
+        geo:long     "4.801866" .
+
+<http://irail.be/stations/NMBS/008864949>
+        rdfs:label   "Courriere [NMBS/SNCB]" ;
+        geo:lat      "50.387442" ;
+        geo:long     "4.996051" .
+
+<http://irail.be/stations/NMBS/008865110>
+        rdfs:label   "Bastenaken-Zuid [NMBS/SNCB]" ;
+        geo:lat      "49.999737" ;
+        geo:long     "5.709858" .
+
+<http://irail.be/stations/NMBS/008811601>
+        rdfs:label   "Ottignies [NMBS/SNCB]" ;
+        geo:lat      "50.673667" ;
+        geo:long     "4.569360" .
+
+<http://irail.be/stations/NMBS/008863115>
+        rdfs:label   "Jambes [NMBS/SNCB]" ;
+        geo:lat      "50.454843" ;
+        geo:long     "4.876144" .
+
+<http://irail.be/stations/NMBS/008871662>
+        rdfs:label   "Solre-Sur-Sambre [NMBS/SNCB]" ;
+        geo:lat      "50.312642" ;
+        geo:long     "4.158427" .
+
+<http://irail.be/stations/NMBS/008884327>
+        rdfs:label   "Hainin [NMBS/SNCB]" ;
+        geo:lat      "50.428019" ;
+        geo:long     "3.766893" .
+
+<http://irail.be/stations/NMBS/008891173>
+        rdfs:label   "Zeebrugge-Strand [NMBS/SNCB]" ;
+        geo:lat      "51.324549" ;
+        geo:long     "3.186666" .
+
+<http://irail.be/stations/NMBS/008811742>
+        rdfs:label   "Gastuche [NMBS/SNCB]" ;
+        geo:lat      "50.736646" ;
+        geo:long     "4.649598" .
+
+<http://irail.be/stations/NMBS/008400058>
+        rdfs:label   "Amsterdam Cs (nl)" ;
+        geo:lat      "52.350002" ;
+        geo:long     "4.916667" .
+
+<http://irail.be/stations/NMBS/008895240>
+        rdfs:label   "Balegem-Zuid [NMBS/SNCB]" ;
+        geo:lat      "50.900510" ;
+        geo:long     "3.805870" .
+
+<http://irail.be/stations/NMBS/008874567>
+        rdfs:label   "Farciennes [NMBS/SNCB]" ;
+        geo:lat      "50.435246" ;
+        geo:long     "4.564138" .
+
+<http://irail.be/stations/NMBS/008831005>
+        rdfs:label   "Hasselt [NMBS/SNCB]" ;
+        geo:lat      "50.930822" ;
+        geo:long     "5.327627" .
+
+<http://irail.be/stations/NMBS/008883311>
+        rdfs:label   "Edingen [NMBS/SNCB]" ;
+        geo:lat      "50.697273" ;
+        geo:long     "4.047357" .
+
+<http://irail.be/stations/NMBS/008844321>
+        rdfs:label   "Juslenville [NMBS/SNCB]" ;
+        geo:lat      "50.544717" ;
+        geo:long     "5.809935" .
+
+<http://irail.be/stations/NMBS/008864964>
+        rdfs:label   "Naninne [NMBS/SNCB]" ;
+        geo:lat      "50.419695" ;
+        geo:long     "4.929756" .
+
+<http://irail.be/stations/NMBS/008728606>
+        rdfs:label   "Hellemmes (f)" ;
+        geo:lat      "50.626941" ;
+        geo:long     "3.108892" .
+
+<http://irail.be/stations/NMBS/008845229>
+        rdfs:label   "Coo [NMBS/SNCB]" ;
+        geo:lat      "50.391127" ;
+        geo:long     "5.880473" .
+
+<http://irail.be/stations/NMBS/008895257>
+        rdfs:label   "Balegem-Dorp [NMBS/SNCB]" ;
+        geo:lat      "50.919612" ;
+        geo:long     "3.791425" .
+
+<http://irail.be/stations/NMBS/008893252>
+        rdfs:label   "Evergem [NMBS/SNCB]" ;
+        geo:lat      "51.107585" ;
+        geo:long     "3.701380" .
+
+<http://irail.be/stations/NMBS/008811759>
+        rdfs:label   "Eerken [NMBS/SNCB]" ;
+        geo:lat      "50.754345" ;
+        geo:long     "4.662444" .
+
+<http://irail.be/stations/NMBS/008884319>
+        rdfs:label   "Boussu [NMBS/SNCB]" ;
+        geo:lat      "50.436388" ;
+        geo:long     "3.797025" .
+
+<http://irail.be/stations/NMBS/008891165>
+        rdfs:label   "Hansbeke [NMBS/SNCB]" ;
+        geo:lat      "51.073202" ;
+        geo:long     "3.536212" .
+
+<http://irail.be/stations/NMBS/008728600>
+        rdfs:label   "Lille Flandres(f)" ;
+        geo:lat      "50.633333" ;
+        geo:long     "3.066669" .
+
+<http://irail.be/stations/NMBS/008871670>
+        rdfs:label   "Labuissiere [NMBS/SNCB]" ;
+        geo:lat      "50.316328" ;
+        geo:long     "4.186833" .
+
+<http://irail.be/stations/NMBS/008863008>
+        rdfs:label   "Namen [NMBS/SNCB]" ;
+        geo:lat      "50.468794" ;
+        geo:long     "4.862220" .
+
+<http://irail.be/stations/NMBS/008863834>
+        rdfs:label   "Gendron-Celles [NMBS/SNCB]" ;
+        geo:lat      "50.211235" ;
+        geo:long     "4.964607" .
+
+<http://irail.be/stations/NMBS/008728671>
+        rdfs:label   "Croix Wasquehal (f)" ;
+        geo:lat      "50.666665" ;
+        geo:long     "3.150000" .
+
+<http://irail.be/stations/NMBS/008811304>
+        rdfs:label   "Brussel-Luxemburg [NMBS/SNCB]" ;
+        geo:lat      "50.838943" ;
+        geo:long     "4.373674" .
+
+<http://irail.be/stations/NMBS/008728673>
+        rdfs:label   "Roubaix (f)" ;
+        geo:lat      "50.699997" ;
+        geo:long     "3.166666" .
+
+<http://irail.be/stations/NMBS/008895125>
+        rdfs:label   "Aalst Kerrebroek [NMBS/SNCB]" ;
+        geo:lat      "50.948377" ;
+        geo:long     "4.024407" .
+
+<http://irail.be/stations/NMBS/008881174>
+        rdfs:label   "Masnuy-Saint-Pierre [NMBS/SNCB]" ;
+        geo:lat      "50.536546" ;
+        geo:long     "3.962139" .
+
+<http://irail.be/stations/NMBS/008864832>
+        rdfs:label   "Haversin [NMBS/SNCB]" ;
+        geo:lat      "50.249044" ;
+        geo:long     "5.194371" .
+
+<http://irail.be/stations/NMBS/008893260>
+        rdfs:label   "Sleidinge [NMBS/SNCB]" ;
+        geo:lat      "51.126607" ;
+        geo:long     "3.667526" .
+
+<http://irail.be/stations/NMBS/008896800>
+        rdfs:label   "Roeselare [NMBS/SNCB]" ;
+        geo:lat      "50.949025" ;
+        geo:long     "3.130412" .
+
+<http://irail.be/stations/NMBS/008891157>
+        rdfs:label   "Bellem [NMBS/SNCB]" ;
+        geo:lat      "51.083908" ;
+        geo:long     "3.487374" .
+
+<http://irail.be/stations/NMBS/008882248>
+        rdfs:label   "Carnieres [NMBS/SNCB]" ;
+        geo:lat      "50.447957" ;
+        geo:long     "4.263826" .
+
+<http://irail.be/stations/NMBS/008718213>
+        rdfs:label   "St Louis Haut Rhin (f)" ;
+        geo:lat      "47.590700" ;
+        geo:long     "7.555316" .
+
+<http://irail.be/stations/NMBS/008811106>
+        rdfs:label   "Evere [NMBS/SNCB]" ;
+        geo:lat      "50.867780" ;
+        geo:long     "4.400965" .
+
+<http://irail.be/stations/NMBS/008871688>
+        rdfs:label   "Fontaine-Valmont [NMBS/SNCB]" ;
+        geo:lat      "50.321164" ;
+        geo:long     "4.212785" .
+
+<http://irail.be/stations/NMBS/008718206>
+        rdfs:label   "Mulhouse (f)" ;
+        geo:lat      "47.749998" ;
+        geo:long     "7.333336" .
+
+<http://irail.be/stations/NMBS/008881166>
+        rdfs:label   "Jurbeke [NMBS/SNCB]" ;
+        geo:lat      "50.530496" ;
+        geo:long     "3.910694" .
+
+<http://irail.be/stations/NMBS/008896503>
+        rdfs:label   "Ieper [NMBS/SNCB]" ;
+        geo:lat      "50.847402" ;
+        geo:long     "2.876593" .
+
+<http://irail.be/stations/NMBS/008881463>
+        rdfs:label   "Bracquegnies [NMBS/SNCB]" ;
+        geo:lat      "50.474457" ;
+        geo:long     "4.126345" .
+
+<http://irail.be/stations/NMBS/008863362>
+        rdfs:label   "Dave-Saint-Martin [NMBS/SNCB]" ;
+        geo:lat      "50.429098" ;
+        geo:long     "4.884414" .
+
+<http://irail.be/stations/NMBS/008864410>
+        rdfs:label   "Marche-En-Famenne [NMBS/SNCB]" ;
+        geo:lat      "50.222472" ;
+        geo:long     "5.346289" .
+
+<http://irail.be/stations/NMBS/008882339>
+        rdfs:label   "Leval [NMBS/SNCB]" ;
+        geo:lat      "50.430797" ;
+        geo:long     "4.211041" .
+
+<http://irail.be/stations/NMBS/008895232>
+        rdfs:label   "Munkzwalm [NMBS/SNCB]" ;
+        geo:lat      "50.875673" ;
+        geo:long     "3.733238" .
+
+<http://irail.be/stations/NMBS/008896008>
+        rdfs:label   "Kortrijk [NMBS/SNCB]" ;
+        geo:lat      "50.824506" ;
+        geo:long     "3.264549" .
+
+<http://irail.be/stations/NMBS/008400280>
+        rdfs:label   "Den Haag Hs (nl)" ;
+        geo:lat      "52.083329" ;
+        geo:long     "4.299999" .
+
+<http://irail.be/stations/NMBS/008891140>
+        rdfs:label   "Aalter [NMBS/SNCB]" ;
+        geo:lat      "51.092295" ;
+        geo:long     "3.447848" .
+
+<http://irail.be/stations/NMBS/008882230>
+        rdfs:label   "Morlanwelz [NMBS/SNCB]" ;
+        geo:lat      "50.457998" ;
+        geo:long     "4.247367" .
+
+<http://irail.be/stations/NMBS/008719203>
+        rdfs:label   "Metz (f)" ;
+        geo:lat      "49.133330" ;
+        geo:long     "6.166663" .
+
+<http://irail.be/stations/NMBS/008861333>
+        rdfs:label   "Mazy [NMBS/SNCB]" ;
+        geo:lat      "50.513497" ;
+        geo:long     "4.675829" .
+
+<http://irail.be/stations/NMBS/008400180>
+        rdfs:label   "Dordrecht (nl)" ;
+        geo:lat      "51.799998" ;
+        geo:long     "4.666668" .
+
+<http://irail.be/stations/NMBS/008718201>
+        rdfs:label   "Colmar (f)" ;
+        geo:lat      "48.083335" ;
+        geo:long     "7.366668" .
+
+<http://irail.be/stations/NMBS/008863818>
+        rdfs:label   "Anseremme [NMBS/SNCB]" ;
+        geo:lat      "50.238023" ;
+        geo:long     "4.905530" .
+
+<http://irail.be/stations/NMBS/008881455>
+        rdfs:label   "Thieu [NMBS/SNCB]" ;
+        geo:lat      "50.469540" ;
+        geo:long     "4.098523" .
+
+<http://irail.be/stations/NMBS/008884566>
+        rdfs:label   "Jemappes [NMBS/SNCB]" ;
+        geo:lat      "50.452577" ;
+        geo:long     "3.885587" .
+
+<http://irail.be/stations/NMBS/008863354>
+        rdfs:label   "Jambes-Est [NMBS/SNCB]" ;
+        geo:lat      "50.454798" ;
+        geo:long     "4.880261" .
+
+<http://irail.be/stations/NMBS/008895000>
+        rdfs:label   "Aalst [NMBS/SNCB]" ;
+        geo:lat      "50.942813" ;
+        geo:long     "4.039653" .
+
+<http://irail.be/stations/NMBS/008883808>
+        rdfs:label   "Tubeke [NMBS/SNCB]" ;
+        geo:lat      "50.691708" ;
+        geo:long     "4.205729" .
+
+<http://irail.be/stations/NMBS/008864501>
+        rdfs:label   "Ciney [NMBS/SNCB]" ;
+        geo:lat      "50.291050" ;
+        geo:long     "5.091409" .
+
+<http://irail.be/stations/NMBS/008811916>
+        rdfs:label   "Brussel-Schuman [NMBS/SNCB]" ;
+        geo:lat      "50.843276" ;
+        geo:long     "4.380722" .
+
+<http://irail.be/stations/NMBS/008886587>
+        rdfs:label   "Rebaix [NMBS/SNCB]" ;
+        geo:lat      "50.661235" ;
+        geo:long     "3.793627" .
+
+<http://irail.be/stations/NMBS/008881190>
+        rdfs:label   "Lens [NMBS/SNCB]" ;
+        geo:lat      "50.559342" ;
+        geo:long     "3.903224" .
+
+<http://irail.be/stations/NMBS/008863156>
+        rdfs:label   "Lustin [NMBS/SNCB]" ;
+        geo:lat      "50.391559" ;
+        geo:long     "4.877241" .
+
+<http://irail.be/stations/NMBS/008400561>
+        rdfs:label   "Schiphol (nl)" ;
+        geo:lat      "52.299996" ;
+        geo:long     "4.749999" .
+
+<http://irail.be/stations/NMBS/008896925>
+        rdfs:label   "Ingelmunster [NMBS/SNCB]" ;
+        geo:lat      "50.914326" ;
+        geo:long     "3.255416" .
+
+<http://irail.be/stations/NMBS/008861200>
+        rdfs:label   "Gembloux [NMBS/SNCB]" ;
+        geo:lat      "50.570489" ;
+        geo:long     "4.691497" .
+
+<http://irail.be/stations/NMBS/008728654>
+        rdfs:label   "Tourcoing (f)" ;
+        geo:lat      "50.716663" ;
+        geo:long     "3.150000" .
+
+<http://irail.be/stations/NMBS/008882362>
+        rdfs:label   "Binche [NMBS/SNCB]" ;
+        geo:lat      "50.408764" ;
+        geo:long     "4.172451" .
+
+<http://irail.be/stations/NMBS/008891132>
+        rdfs:label   "Maria-Aalter [NMBS/SNCB]" ;
+        geo:lat      "51.107612" ;
+        geo:long     "3.386730" .
+
+<http://irail.be/stations/NMBS/008895208>
+        rdfs:label   "Zottegem [NMBS/SNCB]" ;
+        geo:lat      "50.869102" ;
+        geo:long     "3.814410" .
+
+<http://irail.be/stations/NMBS/008894748>
+        rdfs:label   "Beveren [NMBS/SNCB]" ;
+        geo:lat      "51.208336" ;
+        geo:long     "4.259520" .
+
+<http://irail.be/stations/NMBS/008894151>
+        rdfs:label   "Beervelde [NMBS/SNCB]" ;
+        geo:lat      "51.087530" ;
+        geo:long     "3.879384" .
+
+<http://irail.be/stations/NMBS/008863842>
+        rdfs:label   "Houyet [NMBS/SNCB]" ;
+        geo:lat      "50.189868" ;
+        geo:long     "5.006074" .
+
+<http://irail.be/stations/NMBS/008811510>
+        rdfs:label   "Terhulpen [NMBS/SNCB]" ;
+        geo:lat      "50.737958" ;
+        geo:long     "4.497060" .
+
+<http://irail.be/stations/NMBS/008893013>
+        rdfs:label   "Merelbeke [NMBS/SNCB]" ;
+        geo:lat      "51.017531" ;
+        geo:long     "3.768889" .
+
+<http://irail.be/stations/NMBS/008821519>
+        rdfs:label   "Heide [NMBS/SNCB]" ;
+        geo:lat      "51.364623" ;
+        geo:long     "4.460483" .
+
+<http://irail.be/stations/NMBS/008896909>
+        rdfs:label   "Izegem [NMBS/SNCB]" ;
+        geo:lat      "50.921149" ;
+        geo:long     "3.212088" .
+
+<http://irail.be/stations/NMBS/008893211>
+        rdfs:label   "Wondelgem [NMBS/SNCB]" ;
+        geo:lat      "51.088357" ;
+        geo:long     "3.719071" .
+
+<http://irail.be/stations/NMBS/008884350>
+        rdfs:label   "Thulin [NMBS/SNCB]" ;
+        geo:lat      "50.423335" ;
+        geo:long     "3.744708" .
+
+<http://irail.be/stations/NMBS/008891264>
+        rdfs:label   "Zedelgem [NMBS/SNCB]" ;
+        geo:lat      "51.127047" ;
+        geo:long     "3.164140" .
+
+<http://irail.be/stations/NMBS/008864006>
+        rdfs:label   "Jemelle [NMBS/SNCB]" ;
+        geo:lat      "50.160401" ;
+        geo:long     "5.266698" .
+
+<http://irail.be/stations/NMBS/008883212>
+        rdfs:label   "Ecaussinnes [NMBS/SNCB]" ;
+        geo:lat      "50.562390" ;
+        geo:long     "4.156639" .
+
+<http://irail.be/stations/NMBS/008821311>
+        rdfs:label   "Kontich [NMBS/SNCB]" ;
+        geo:lat      "51.134023" ;
+        geo:long     "4.476358" .
+
+<http://irail.be/stations/NMBS/008811718>
+        rdfs:label   "Bierges-Walibi [NMBS/SNCB]" ;
+        geo:lat      "50.707772" ;
+        geo:long     "4.594746" .
+
+<http://irail.be/stations/NMBS/008891124>
+        rdfs:label   "Beernem [NMBS/SNCB]" ;
+        geo:lat      "51.128009" ;
+        geo:long     "3.329892" .
+
+<http://irail.be/stations/NMBS/008894755>
+        rdfs:label   "Melsele [NMBS/SNCB]" ;
+        geo:lat      "51.210710" ;
+        geo:long     "4.286766" .
+
+<http://irail.be/stations/NMBS/008874005>
+        rdfs:label   "Chatelet [NMBS/SNCB]" ;
+        geo:lat      "50.410103" ;
+        geo:long     "4.521861" .
+
+<http://irail.be/stations/NMBS/008814423>
+        rdfs:label   "Beersel [NMBS/SNCB]" ;
+        geo:lat      "50.766616" ;
+        geo:long     "4.302605" .
+
+<http://irail.be/stations/NMBS/008871837>
+        rdfs:label   "Landelies [NMBS/SNCB]" ;
+        geo:lat      "50.377311" ;
+        geo:long     "4.350976" .
+
+<http://irail.be/stations/NMBS/008891629>
+        rdfs:label   "Lissewege [NMBS/SNCB]" ;
+        geo:lat      "51.294714" ;
+        geo:long     "3.194505" .
+
+<http://irail.be/stations/NMBS/008891116>
+        rdfs:label   "Oostkamp [NMBS/SNCB]" ;
+        geo:lat      "51.154114" ;
+        geo:long     "3.257466" .
+
+<http://irail.be/stations/NMBS/008811148>
+        rdfs:label   "Buda [NMBS/SNCB]" ;
+        geo:lat      "50.907495" ;
+        geo:long     "4.417074" .
+
+<http://irail.be/stations/NMBS/008895471>
+        rdfs:label   "Erpe-Mere [NMBS/SNCB]" ;
+        geo:lat      "50.928601" ;
+        geo:long     "3.962463" .
+
+<http://irail.be/stations/NMBS/008886561>
+        rdfs:label   "Papegem [NMBS/SNCB]" ;
+        geo:lat      "50.686585" ;
+        geo:long     "3.823408" .
+
+<http://irail.be/stations/NMBS/008872587>
+        rdfs:label   "La Roche (brabant) [NMBS/SNCB]" ;
+        geo:lat      "50.610338" ;
+        geo:long     "4.539157" .
+
+<http://irail.be/stations/NMBS/008895570>
+        rdfs:label   "Lierde [NMBS/SNCB]" ;
+        geo:lat      "50.816236" ;
+        geo:long     "3.826564" .
+
+<http://irail.be/stations/NMBS/008811007>
+        rdfs:label   "Schaarbeek [NMBS/SNCB]" ;
+        geo:lat      "50.878513" ;
+        geo:long     "4.378636" .
+
+<http://irail.be/stations/NMBS/008813037>
+        rdfs:label   "Brussel-Kapellekerk [NMBS/SNCB]" ;
+        geo:lat      "50.841127" ;
+        geo:long     "4.347866" .
+
+<http://irail.be/stations/NMBS/008812005>
+        rdfs:label   "Brussel-Noord [NMBS/SNCB]" ;
+        geo:lat      "50.859663" ;
+        geo:long     "4.360846" .
+
+<http://irail.be/stations/NMBS/008891405>
+        rdfs:label   "Blankenberge [NMBS/SNCB]" ;
+        geo:lat      "51.312432" ;
+        geo:long     "3.133864" .
+
+<http://irail.be/stations/NMBS/008895067>
+        rdfs:label   "Lede [NMBS/SNCB]" ;
+        geo:lat      "50.970895" ;
+        geo:long     "3.984981" .
+
+<http://irail.be/stations/NMBS/008811288>
+        rdfs:label   "Herent [NMBS/SNCB]" ;
+        geo:lat      "50.903530" ;
+        geo:long     "4.672188" .
+
+<http://irail.be/stations/NMBS/008864469>
+        rdfs:label   "Bomal [NMBS/SNCB]" ;
+        geo:lat      "50.376798" ;
+        geo:long     "5.519304" .
+
+<http://irail.be/stations/NMBS/008891314>
+        rdfs:label   "Torhout [NMBS/SNCB]" ;
+        geo:lat      "51.064707" ;
+        geo:long     "3.105871" .
+
+<http://irail.be/stations/NMBS/008812146>
+        rdfs:label   "Opwijk [NMBS/SNCB]" ;
+        geo:lat      "50.974779" ;
+        geo:long     "4.187319" .
+
+<http://irail.be/stations/NMBS/008500010>
+        rdfs:label   "Basel (ch)" ;
+        geo:lat      "47.547408" ;
+        geo:long     "7.590716" .
+
+<http://irail.be/stations/NMBS/008881430>
+        rdfs:label   "Havre [NMBS/SNCB]" ;
+        geo:lat      "50.470754" ;
+        geo:long     "4.059987" .
+
+<http://irail.be/stations/NMBS/008895463>
+        rdfs:label   "Bambrugge [NMBS/SNCB]" ;
+        geo:lat      "50.913769" ;
+        geo:long     "3.935711" .
+
+<http://irail.be/stations/NMBS/008811155>
+        rdfs:label   "Haren [NMBS/SNCB]" ;
+        geo:lat      "50.888878" ;
+        geo:long     "4.419978" .
+
+<http://irail.be/stations/NMBS/008882107>
+        rdfs:label   "La Louviere- Centrum [NMBS/SNCB]" ;
+        geo:lat      "50.478161" ;
+        geo:long     "4.179858" .
+
+<http://irail.be/stations/NMBS/008811825>
+        rdfs:label   "Court-Saint-Etienne [NMBS/SNCB]" ;
+        geo:lat      "50.645567" ;
+        geo:long     "4.565819" .
+
+<http://irail.be/stations/NMBS/008814415>
+        rdfs:label   "Huizingen [NMBS/SNCB]" ;
+        geo:lat      "50.751900" ;
+        geo:long     "4.266487" .
+
+<http://irail.be/stations/NMBS/008719100>
+        rdfs:label   "Thionville (f)" ;
+        geo:lat      "49.366663" ;
+        geo:long     "6.166663" .
+
+<http://irail.be/stations/NMBS/008832458>
+        rdfs:label   "Olen [NMBS/SNCB]" ;
+        geo:lat      "51.174034" ;
+        geo:long     "4.902500" .
+
+<http://irail.be/stations/NMBS/008886553>
+        rdfs:label   "Houraing [NMBS/SNCB]" ;
+        geo:lat      "50.703062" ;
+        geo:long     "3.835175" .
+
+<http://irail.be/stations/NMBS/008872579>
+        rdfs:label   "Villers-La-Ville [NMBS/SNCB]" ;
+        geo:lat      "50.578103" ;
+        geo:long     "4.533349" .
+
+<http://irail.be/stations/NMBS/008864451>
+        rdfs:label   "Barvaux [NMBS/SNCB]" ;
+        geo:lat      "50.349417" ;
+        geo:long     "5.501542" .
+
+<http://irail.be/stations/NMBS/008864311>
+        rdfs:label   "Forrieres [NMBS/SNCB]" ;
+        geo:lat      "50.132759" ;
+        geo:long     "5.276784" .
+
+<http://irail.be/stations/NMBS/008871852>
+        rdfs:label   "Marchienne-Zone [NMBS/SNCB]" ;
+        geo:lat      "50.397465" ;
+        geo:long     "4.388767" .
+
+<http://irail.be/stations/NMBS/008891009>
+        rdfs:label   "Brugge [NMBS/SNCB]" ;
+        geo:lat      "51.197226" ;
+        geo:long     "3.216726" .
+
+<http://irail.be/stations/NMBS/008871332>
+        rdfs:label   "Obaix-Buzet [NMBS/SNCB]" ;
+        geo:lat      "50.535206" ;
+        geo:long     "4.363570" .
+
+<http://irail.be/stations/NMBS/008812161>
+        rdfs:label   "Lebbeke [NMBS/SNCB]" ;
+        geo:lat      "51.005009" ;
+        geo:long     "4.134372" .
+
+<http://irail.be/stations/NMBS/008881406>
+        rdfs:label   "Obourg [NMBS/SNCB]" ;
+        geo:lat      "50.469873" ;
+        geo:long     "4.007804" .
+
+<http://irail.be/stations/NMBS/008814308>
+        rdfs:label   "Halle [NMBS/SNCB]" ;
+        geo:lat      "50.733931" ;
+        geo:long     "4.240634" .
+
+<http://irail.be/stations/NMBS/008886546>
+        rdfs:label   "Acren [NMBS/SNCB]" ;
+        geo:lat      "50.733095" ;
+        geo:long     "3.847086" .
+
+<http://irail.be/stations/NMBS/008811817>
+        rdfs:label   "Ceroux-Mousty [NMBS/SNCB]" ;
+        geo:lat      "50.659941" ;
+        geo:long     "4.569046" .
+
+<http://irail.be/stations/NMBS/008861119>
+        rdfs:label   "Ronet [NMBS/SNCB]" ;
+        geo:lat      "50.457737" ;
+        geo:long     "4.828420" .
+
+<http://irail.be/stations/NMBS/008895455>
+        rdfs:label   "Burst [NMBS/SNCB]" ;
+        geo:lat      "50.907198" ;
+        geo:long     "3.922416" .
+
+<http://irail.be/stations/NMBS/008812260>
+        rdfs:label   "Essene Lombeek [NMBS/SNCB]" ;
+        geo:lat      "50.882451" ;
+        geo:long     "4.115171" .
+
+<http://irail.be/stations/NMBS/008894821>
+        rdfs:label   "Zwijndrecht [NMBS/SNCB]" ;
+        geo:lat      "51.214108" ;
+        geo:long     "4.329780" .
+
+<http://irail.be/stations/NMBS/008881315>
+        rdfs:label   "Nimy [NMBS/SNCB]" ;
+        geo:lat      "50.471644" ;
+        geo:long     "3.956089" .
+
+<http://irail.be/stations/NMBS/008728710>
+        rdfs:label   "Lezennes (f)" ;
+        geo:lat      "50.616666" ;
+        geo:long     "3.116667" .
+
+<http://irail.be/stations/NMBS/008721202>
+        rdfs:label   "Strasbourg (f)" ;
+        geo:lat      "48.585437" ;
+        geo:long     "7.733905" .
+
+<http://irail.be/stations/NMBS/008891702>
+        rdfs:label   "Oostende [NMBS/SNCB]" ;
+        geo:lat      "51.228212" ;
+        geo:long     "2.925809" .
+
+<http://irail.be/stations/NMBS/008881505>
+        rdfs:label   "Quevy [NMBS/SNCB]" ;
+        geo:lat      "50.341534" ;
+        geo:long     "3.909489" .
+
+<http://irail.be/stations/NMBS/008814209>
+        rdfs:label   "Nijvel [NMBS/SNCB]" ;
+        geo:lat      "50.599641" ;
+        geo:long     "4.335065" .
+
+<http://irail.be/stations/NMBS/008864345>
+        rdfs:label   "Marloie [NMBS/SNCB]" ;
+        geo:lat      "50.202821" ;
+        geo:long     "5.313892" .
+
+<http://irail.be/stations/NMBS/008891611>
+        rdfs:label   "Zwankendamme [NMBS/SNCB]" ;
+        geo:lat      "51.306409" ;
+        geo:long     "3.191557" .
+
+<http://irail.be/stations/NMBS/008891033>
+        rdfs:label   "Brugge-Sint-Pieters [NMBS/SNCB]" ;
+        geo:lat      "51.223115" ;
+        geo:long     "3.201795" .
+
+<http://irail.be/stations/NMBS/008894714>
+        rdfs:label   "Nieuwkerken-Waas [NMBS/SNCB]" ;
+        geo:lat      "51.185612" ;
+        geo:long     "4.185907" .
+
+<http://irail.be/stations/NMBS/008843901>
+        rdfs:label   "Bressoux [NMBS/SNCB]" ;
+        geo:lat      "50.643967" ;
+        geo:long     "5.611057" .
+
+<http://irail.be/stations/NMBS/008812153>
+        rdfs:label   "Heizijde [NMBS/SNCB]" ;
+        geo:lat      "50.989593" ;
+        geo:long     "4.156171" .
+
+<http://irail.be/stations/NMBS/008832334>
+        rdfs:label   "Zonhoven [NMBS/SNCB]" ;
+        geo:lat      "50.989557" ;
+        geo:long     "5.348815" .
+
+<http://irail.be/stations/NMBS/008812252>
+        rdfs:label   "Ternat [NMBS/SNCB]" ;
+        geo:lat      "50.874522" ;
+        geo:long     "4.165340" .
+
+<http://irail.be/stations/NMBS/008843133>
+        rdfs:label   "Sclessin [NMBS/SNCB]" ;
+        geo:lat      "50.609844" ;
+        geo:long     "5.558911" .
+
+<http://irail.be/stations/NMBS/008886348>
+        rdfs:label   "Leuze [NMBS/SNCB]" ;
+        geo:lat      "50.600612" ;
+        geo:long     "3.616872" .
+
+<http://irail.be/stations/NMBS/008895448>
+        rdfs:label   "Terhagen [NMBS/SNCB]" ;
+        geo:lat      "50.901643" ;
+        geo:long     "3.896653" .
+
+<http://irail.be/stations/NMBS/008864337>
+        rdfs:label   "Grupont [NMBS/SNCB]" ;
+        geo:lat      "50.090600" ;
+        geo:long     "5.280524" .
+
+<http://irail.be/stations/NMBS/008822608>
+        rdfs:label   "Willebroek [NMBS/SNCB]" ;
+        geo:lat      "51.066343" ;
+        geo:long     "4.356019" .
+
+<http://irail.be/stations/NMBS/008886009>
+        rdfs:label   "Aat [NMBS/SNCB]" ;
+        geo:lat      "50.626932" ;
+        geo:long     "3.777429" .
+
+<http://irail.be/stations/NMBS/008831088>
+        rdfs:label   "Schulen [NMBS/SNCB]" ;
+        geo:lat      "50.963758" ;
+        geo:long     "5.187405" .
+
+<http://irail.be/stations/NMBS/008813045>
+        rdfs:label   "Brussel-Congres [NMBS/SNCB]" ;
+        geo:lat      "50.852067" ;
+        geo:long     "4.362051" .
+
+<http://irail.be/stations/NMBS/008811130>
+        rdfs:label   "Haren-Zuid [NMBS/SNCB]" ;
+        geo:lat      "50.889696" ;
+        geo:long     "4.415357" .
+
+<http://irail.be/stations/NMBS/008822053>
+        rdfs:label   "Kapelle-Op-Den-Bos [NMBS/SNCB]" ;
+        geo:lat      "51.010843" ;
+        geo:long     "4.359121" .
+
+<http://irail.be/stations/NMBS/008841004>
+        rdfs:label   "Luik-Guillemins [NMBS/SNCB]" ;
+        geo:lat      "50.624550" ;
+        geo:long     "5.566695" .
+
+<http://irail.be/stations/NMBS/008864436>
+        rdfs:label   "Melreux-Hotton [NMBS/SNCB]" ;
+        geo:lat      "50.283670" ;
+        geo:long     "5.440136" .
+
+<http://irail.be/stations/NMBS/008842002>
+        rdfs:label   "Angleur [NMBS/SNCB]" ;
+        geo:lat      "50.613152" ;
+        geo:long     "5.599695" .
+
+<http://irail.be/stations/NMBS/008861135>
+        rdfs:label   "Floreffe [NMBS/SNCB]" ;
+        geo:lat      "50.443328" ;
+        geo:long     "4.762368" .
+
+<http://irail.be/stations/NMBS/008822814>
+        rdfs:label   "Boom [NMBS/SNCB]" ;
+        geo:lat      "51.090713" ;
+        geo:long     "4.360694" .
+
+<http://irail.be/stations/NMBS/008812047>
+        rdfs:label   "Jette [NMBS/SNCB]" ;
+        geo:lat      "50.880833" ;
+        geo:long     "4.326220" .
+
+<http://irail.be/stations/NMBS/008871415>
+        rdfs:label   "Pieton [NMBS/SNCB]" ;
+        geo:lat      "50.434959" ;
+        geo:long     "4.288438" .
+
+<http://irail.be/stations/NMBS/008811189>
+        rdfs:label   "Vilvoorde [NMBS/SNCB]" ;
+        geo:lat      "50.924583" ;
+        geo:long     "4.432823" .
+
+<http://irail.be/stations/NMBS/008843240>
+        rdfs:label   "Engis [NMBS/SNCB]" ;
+        geo:lat      "50.582957" ;
+        geo:long     "5.401986" .
+
+<http://irail.be/stations/NMBS/008822715>
+        rdfs:label   "Puurs [NMBS/SNCB]" ;
+        geo:lat      "51.077220" ;
+        geo:long     "4.282703" .
+
+<http://irail.be/stations/NMBS/008843349>
+        rdfs:label   "Haute-Flone [NMBS/SNCB]" ;
+        geo:lat      "50.553490" ;
+        geo:long     "5.330333" .
+
+<http://irail.be/stations/NMBS/008833670>
+        rdfs:label   "Neerwinden [NMBS/SNCB]" ;
+        geo:lat      "50.763964" ;
+        geo:long     "5.036323" .
+
+<http://irail.be/stations/NMBS/008822517>
+        rdfs:label   "Haacht [NMBS/SNCB]" ;
+        geo:lat      "50.966428" ;
+        geo:long     "4.613309" .
+
+<http://irail.be/stations/NMBS/008871308>
+        rdfs:label   "Luttre [NMBS/SNCB]" ;
+        geo:lat      "50.505856" ;
+        geo:long     "4.384120" .
+
+<http://irail.be/stations/NMBS/008814464>
+        rdfs:label   "Diesdelle [NMBS/SNCB]" ;
+        geo:lat      "50.796145" ;
+        geo:long     "4.374052" .
+
+<http://irail.be/stations/NMBS/008812245>
+        rdfs:label   "Sint-Martens-Bodegem [NMBS/SNCB]" ;
+        geo:lat      "50.867160" ;
+        geo:long     "4.205081" .
+
+<http://irail.be/stations/NMBS/008811247>
+        rdfs:label   "Nossegem [NMBS/SNCB]" ;
+        geo:lat      "50.883314" ;
+        geo:long     "4.506112" .
+
+<http://irail.be/stations/NMBS/008721222>
+        rdfs:label   "Saverne (f)" ;
+        geo:lat      "48.744798" ;
+        geo:long     "7.362255" .
+
+<http://irail.be/stations/NMBS/008872306>
+        rdfs:label   "Lodelinsart [NMBS/SNCB]" ;
+        geo:lat      "50.432451" ;
+        geo:long     "4.462946" .
+
+<http://irail.be/stations/NMBS/008819406>
+        rdfs:label   "Brussel-Nat-Luchthaven [NMBS/SNCB]" ;
+        geo:lat      "50.896456" ;
+        geo:long     "4.482075" .
+
+<http://irail.be/stations/NMBS/008871217>
+        rdfs:label   "Roux [NMBS/SNCB]" ;
+        geo:lat      "50.443112" ;
+        geo:long     "4.393199" .
+
+<http://irail.be/stations/NMBS/008843141>
+        rdfs:label   "Pont-De-Seraing [NMBS/SNCB]" ;
+        geo:lat      "50.619651" ;
+        geo:long     "5.510162" .
+
+<http://irail.be/stations/NMBS/008871514>
+        rdfs:label   "Forchies [NMBS/SNCB]" ;
+        geo:lat      "50.433314" ;
+        geo:long     "4.325384" .
+
+<http://irail.be/stations/NMBS/008861127>
+        rdfs:label   "Flawinne [NMBS/SNCB]" ;
+        geo:lat      "50.456236" ;
+        geo:long     "4.806298" .
+
+<http://irail.be/stations/NMBS/008843158>
+        rdfs:label   "Jemeppe-Sur-Meuse [NMBS/SNCB]" ;
+        geo:lat      "50.618446" ;
+        geo:long     "5.497874" .
+
+<http://irail.be/stations/NMBS/008814456>
+        rdfs:label   "Boondaal [NMBS/SNCB]" ;
+        geo:lat      "50.801665" ;
+        geo:long     "4.393387" .
+
+<http://irail.be/stations/NMBS/008892080>
+        rdfs:label   "De Pinte [NMBS/SNCB]" ;
+        geo:lat      "50.997063" ;
+        geo:long     "3.650465" .
+
+<http://irail.be/stations/NMBS/008896149>
+        rdfs:label   "Waregem [NMBS/SNCB]" ;
+        geo:lat      "50.892456" ;
+        geo:long     "3.425510" .
+
+<http://irail.be/stations/NMBS/008871605>
+        rdfs:label   "Erquelinnes [NMBS/SNCB]" ;
+        geo:lat      "50.304192" ;
+        geo:long     "4.113562" .
+
+<http://irail.be/stations/NMBS/008811197>
+        rdfs:label   "Merode [NMBS/SNCB]" ;
+        geo:lat      "50.839284" ;
+        geo:long     "4.398934" .
+
+<http://irail.be/stations/NMBS/008822525>
+        rdfs:label   "Wespelaar-Tildonk [NMBS/SNCB]" ;
+        geo:lat      "50.958544" ;
+        geo:long     "4.638011" .
+
+<http://irail.be/stations/NMBS/008871811>
+        rdfs:label   "Thuin [NMBS/SNCB]" ;
+        geo:lat      "50.342738" ;
+        geo:long     "4.288906" .
+
+<http://irail.be/stations/NMBS/008864352>
+        rdfs:label   "Aye [NMBS/SNCB]" ;
+        geo:lat      "50.224135" ;
+        geo:long     "5.301091" .
+
+<http://irail.be/stations/NMBS/008871100>
+        rdfs:label   "Marchienne-Au-Pont [NMBS/SNCB]" ;
+        geo:lat      "50.412171" ;
+        geo:long     "4.394223" .
+
+<http://irail.be/stations/NMBS/008871712>
+        rdfs:label   "Lobbes [NMBS/SNCB]" ;
+        geo:lat      "50.346469" ;
+        geo:long     "4.260958" .
+
+<http://irail.be/stations/NMBS/008812237>
+        rdfs:label   "Dilbeek [NMBS/SNCB]" ;
+        geo:lat      "50.866728" ;
+        geo:long     "4.243393" .
+
+<http://irail.be/stations/NMBS/008811254>
+        rdfs:label   "Kortenberg [NMBS/SNCB]" ;
+        geo:lat      "50.893067" ;
+        geo:long     "4.543301" .
+
+<http://irail.be/stations/NMBS/008811262>
+        rdfs:label   "Erps-Kwerps [NMBS/SNCB]" ;
+        geo:lat      "50.896510" ;
+        geo:long     "4.585001" .
+
+<http://irail.be/stations/NMBS/008843166>
+        rdfs:label   "Flemalle-Grande [NMBS/SNCB]" ;
+        geo:lat      "50.605349" ;
+        geo:long     "5.480983" .
+
+<http://irail.be/stations/NMBS/008814449>
+        rdfs:label   "Sint-Job [NMBS/SNCB]" ;
+        geo:lat      "50.794410" ;
+        geo:long     "4.362761" .
+
+<http://irail.be/stations/NMBS/008824158>
+        rdfs:label   "Hoboken-Polder [NMBS/SNCB]" ;
+        geo:lat      "51.182699" ;
+        geo:long     "4.347785" .
+
+<http://irail.be/stations/NMBS/008861150>
+        rdfs:label   "Moustier [NMBS/SNCB]" ;
+        geo:lat      "50.452748" ;
+        geo:long     "4.693807" .
+
+<http://irail.be/stations/NMBS/008886504>
+        rdfs:label   "Lessen [NMBS/SNCB]" ;
+        geo:lat      "50.712015" ;
+        geo:long     "3.836434" .
+
+<http://irail.be/stations/NMBS/008812120>
+        rdfs:label   "Merchtem [NMBS/SNCB]" ;
+        geo:lat      "50.954958" ;
+        geo:long     "4.222718" .
+
+<http://irail.be/stations/NMBS/008400219>
+        rdfs:label   "Eijsden" ;
+        geo:lat      "50.772135" ;
+        geo:long     "5.709786" .
+
+<http://irail.be/stations/NMBS/008811163>
+        rdfs:label   "Bordet [NMBS/SNCB]" ;
+        geo:lat      "50.877785" ;
+        geo:long     "4.410026" .
+
+<http://irail.be/stations/NMBS/008843224>
+        rdfs:label   "Leman [NMBS/SNCB]" ;
+        geo:lat      "50.600396" ;
+        geo:long     "5.468309" .
+
+<http://irail.be/stations/NMBS/008812229>
+        rdfs:label   "Groot-Bijgaarden [NMBS/SNCB]" ;
+        geo:lat      "50.868337" ;
+        geo:long     "4.273543" .
+
+<http://irail.be/stations/NMBS/008812021>
+        rdfs:label   "Bockstael [NMBS/SNCB]" ;
+        geo:lat      "50.879430" ;
+        geo:long     "4.348513" .
+
+<http://irail.be/stations/NMBS/008866407>
+        rdfs:label   "Virton [NMBS/SNCB]" ;
+        geo:lat      "49.560821" ;
+        geo:long     "5.519125" .
+
+<http://irail.be/stations/NMBS/008892601>
+        rdfs:label   "Oudenaarde [NMBS/SNCB]" ;
+        geo:lat      "50.850116" ;
+        geo:long     "3.600386" .
+
+<http://irail.be/stations/NMBS/008814340>
+        rdfs:label   "Buizingen [NMBS/SNCB]" ;
+        geo:lat      "50.751577" ;
+        geo:long     "4.258558" .
+
+<http://irail.be/stations/NMBS/008892056>
+        rdfs:label   "Landegem [NMBS/SNCB]" ;
+        geo:lat      "51.064311" ;
+        geo:long     "3.576852" .
+
+<http://irail.be/stations/NMBS/008822848>
+        rdfs:label   "Ruisbroek-Sauvegarde [NMBS/SNCB]" ;
+        geo:lat      "51.081022" ;
+        geo:long     "4.324998" .
+
+<http://irail.be/stations/NMBS/008895489>
+        rdfs:label   "Vijfhuizen [NMBS/SNCB]" ;
+        geo:lat      "50.943254" ;
+        geo:long     "3.981250" .
+
+<http://irail.be/stations/NMBS/008811270>
+        rdfs:label   "Veltem [NMBS/SNCB]" ;
+        geo:lat      "50.900519" ;
+        geo:long     "4.633516" .
+
+<http://irail.be/stations/NMBS/008812013>
+        rdfs:label   "Simonis [NMBS/SNCB]" ;
+        geo:lat      "50.863645" ;
+        geo:long     "4.328980" .
+
+<http://irail.be/stations/NMBS/008895091>
+        rdfs:label   "Erembodegem [NMBS/SNCB]" ;
+        geo:lat      "50.919621" ;
+        geo:long     "4.055447" .
+
+<http://irail.be/stations/NMBS/008832375>
+        rdfs:label   "Kiewit [NMBS/SNCB]" ;
+        geo:lat      "50.954841" ;
+        geo:long     "5.350226" .
+
+<http://irail.be/stations/NMBS/008861143>
+        rdfs:label   "Franiere [NMBS/SNCB]" ;
+        geo:lat      "50.439543" ;
+        geo:long     "4.733548" .
+
+<http://irail.be/stations/NMBS/008871829>
+        rdfs:label   "Hourpes [NMBS/SNCB]" ;
+        geo:lat      "50.363692" ;
+        geo:long     "4.308736" .
+
+<http://irail.be/stations/NMBS/008886041>
+        rdfs:label   "Maffle [NMBS/SNCB]" ;
+        geo:lat      "50.614356" ;
+        geo:long     "3.800117" .
+
+<http://irail.be/stations/NMBS/008812112>
+        rdfs:label   "Mollem [NMBS/SNCB]" ;
+        geo:lat      "50.933473" ;
+        geo:long     "4.216965" .
+
+<http://irail.be/stations/NMBS/008814431>
+        rdfs:label   "Moensberg [NMBS/SNCB]" ;
+        geo:lat      "50.778320" ;
+        geo:long     "4.330733" .
+
+<http://irail.be/stations/NMBS/008811171>
+        rdfs:label   "Meiser [NMBS/SNCB]" ;
+        geo:lat      "50.854072" ;
+        geo:long     "4.394421" .
+
+<http://irail.be/stations/NMBS/008871225>
+        rdfs:label   "Courcelles-Motte [NMBS/SNCB]" ;
+        geo:lat      "50.462007" ;
+        geo:long     "4.400534" .
+
+<http://irail.be/stations/NMBS/008812211>
+        rdfs:label   "Sint-Agatha-Berchem [NMBS/SNCB]" ;
+        geo:lat      "50.872625" ;
+        geo:long     "4.289895" .
+
+<http://irail.be/stations/NMBS/008832573>
+        rdfs:label   "Overpelt [NMBS/SNCB]" ;
+        geo:lat      "51.215618" ;
+        geo:long     "5.422751" .
+
+<http://irail.be/stations/NMBS/008814332>
+        rdfs:label   "Lembeek [NMBS/SNCB]" ;
+        geo:lat      "50.715107" ;
+        geo:long     "4.221577" .
