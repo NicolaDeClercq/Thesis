@@ -17,4 +17,4 @@ To start a route planner instance, the script routeplanner.sh can be used. It do
 
 The script compression_check.sh contains code to fetch the same RPLOD data in 4 different ways from the same server, and shows the file size for each way. The 4 ways are Turtle, Turtle + GZIP, Linked CSV and Linked CSV + GZIP. The script takes one argument, the URL of the RPLOD server.
 
-If one wants to compile the source code to fresh jars, only Maven is needed for that.
+If one wants to compile the source code to fresh JARs, only Maven is needed for that.
